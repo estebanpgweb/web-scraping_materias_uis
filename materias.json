@@ -1,0 +1,578 @@
+{
+  "materias": [
+    {
+      "codigo": "20252",
+      "nombre": "Cálculo I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22948",
+      "nombre": "Fundamentos de Programación",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22949",
+      "nombre": "Química Básica",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "22979",
+      "nombre": "Algebra Lineal I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "Cultura Física y Deportiva",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "Taller de Lenguaje",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "Vida y cultura universitaria",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20253",
+      "nombre": "Cálculo II",
+      "creditos": 4,
+      "requisitos": ["20252"],
+      "nivel": 2
+    },
+    {
+      "codigo": "22109",
+      "nombre": "Ética Ciudadana",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22950",
+      "nombre": "Física I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "22951",
+      "nombre": "Programación Orientada a Objetos",
+      "creditos": 4,
+      "requisitos": ["22948"],
+      "nivel": 2
+    },
+    {
+      "codigo": "22952",
+      "nombre": "Biología para Ingenieros",
+      "creditos": 2,
+      "requisitos": ["22949"],
+      "nivel": 2
+    },
+    {
+      "codigo": "23424",
+      "nombre": "Inglés I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20254",
+      "nombre": "Cálculo III",
+      "creditos": 4,
+      "requisitos": ["20253"],
+      "nivel": 3
+    },
+    {
+      "codigo": "22953",
+      "nombre": "Física II",
+      "creditos": 4,
+      "requisitos": ["20252", "22950"],
+      "nivel": 3
+    },
+    {
+      "codigo": "22954",
+      "nombre": "Matemáticas discretas",
+      "creditos": 4,
+      "requisitos": ["22979"],
+      "nivel": 3
+    },
+    {
+      "codigo": "22955",
+      "nombre": "Estruc. de datos y análisis de alg.",
+      "creditos": 4,
+      "requisitos": ["22951"],
+      "nivel": 3
+    },
+    {
+      "codigo": "23425",
+      "nombre": "Inglés II",
+      "creditos": 4,
+      "requisitos": ["23424"],
+      "nivel": 3
+    },
+    {
+      "codigo": "20255",
+      "nombre": "Ecuaciones Diferenciales",
+      "creditos": 4,
+      "requisitos": ["20254"],
+      "nivel": 4
+    },
+    {
+      "codigo": "22956",
+      "nombre": "Física III",
+      "creditos": 4,
+      "requisitos": ["20253", "22953"],
+      "nivel": 4
+    },
+    {
+      "codigo": "22957",
+      "nombre": "Electricidad y Electrónica",
+      "creditos": 4,
+      "requisitos": ["22953"],
+      "nivel": 4
+    },
+    {
+      "codigo": "22958",
+      "nombre": "Autómatas y lenguajes formales",
+      "creditos": 4,
+      "requisitos": ["22954"],
+      "nivel": 4
+    },
+    {
+      "codigo": "22959",
+      "nombre": "Base de Datos I",
+      "creditos": 4,
+      "requisitos": ["22955"],
+      "nivel": 4
+    },
+    {
+      "codigo": "22960",
+      "nombre": "Base de Datos II",
+      "creditos": 4,
+      "requisitos": ["22959"],
+      "nivel": 5
+    },
+    {
+      "codigo": "22961",
+      "nombre": "Sistemas Digitales",
+      "creditos": 4,
+      "requisitos": ["22957"],
+      "nivel": 5
+    },
+    {
+      "codigo": "22962",
+      "nombre": "Análisis Númerico I",
+      "creditos": 4,
+      "requisitos": ["20255"],
+      "nivel": 5
+    },
+    {
+      "codigo": "22963",
+      "nombre": "Pensamiento sistémico y organizacional",
+      "creditos": 4,
+      "requisitos": ["20255", "22952"],
+      "nivel": 5
+    },
+    {
+      "codigo": "22964",
+      "nombre": "Dirección empresarial I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "21857",
+      "nombre": "Estadística I",
+      "creditos": 4,
+      "requisitos": ["20254", "22954"],
+      "nivel": 6
+    },
+    {
+      "codigo": "22965",
+      "nombre": "Redes de Computadores I",
+      "creditos": 4,
+      "requisitos": ["22958"],
+      "nivel": 6
+    },
+    {
+      "codigo": "22966",
+      "nombre": "Arquitectura de Computadores",
+      "creditos": 4,
+      "requisitos": ["22961"],
+      "nivel": 6
+    },
+    {
+      "codigo": "22967",
+      "nombre": "Programación en la Web",
+      "creditos": 4,
+      "requisitos": ["22951"],
+      "nivel": 6
+    },
+    {
+      "codigo": "22968",
+      "nombre": "Sistemas de Información",
+      "creditos": 4,
+      "requisitos": ["22959", "22964"],
+      "nivel": 6
+    },
+    {
+      "codigo": "21858",
+      "nombre": "Estadística II",
+      "creditos": 4,
+      "requisitos": ["21857"],
+      "nivel": 7
+    },
+    {
+      "codigo": "22969",
+      "nombre": "Ingeniería del Software I",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": 7
+    },
+    {
+      "codigo": "22970",
+      "nombre": "Redes de Computadores II",
+      "creditos": 4,
+      "requisitos": ["22965"],
+      "nivel": 7
+    },
+    {
+      "codigo": "22971",
+      "nombre": "Inteligencia Artificial I",
+      "creditos": 4,
+      "requisitos": ["22959"],
+      "nivel": 7
+    },
+    {
+      "codigo": "ELECT012",
+      "nombre": "Asignaturas técnicas profesionales.",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "22972",
+      "nombre": "Sistemas Operacionales",
+      "creditos": 4,
+      "requisitos": ["22966"],
+      "nivel": 8
+    },
+    {
+      "codigo": "22973",
+      "nombre": "Ingeniería del Software II",
+      "creditos": 4,
+      "requisitos": ["22969"],
+      "nivel": 8
+    },
+    {
+      "codigo": "22974",
+      "nombre": "Simulación Digital",
+      "creditos": 4,
+      "requisitos": ["21857"],
+      "nivel": 8
+    },
+    {
+      "codigo": "ELECT001",
+      "nombre": "Asignaturas Técnicas Profesionales",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "22975",
+      "nombre": "Trabajo de Grado I",
+      "creditos": 3,
+      "requisitos": ["CA: 150"],
+      "nivel": 9
+    },
+    {
+      "codigo": "22976",
+      "nombre": "Ingeniería Económica",
+      "creditos": 3,
+      "requisitos": ["20254"],
+      "nivel": 9
+    },
+    {
+      "codigo": "ELECT003",
+      "nombre": "Asignaturas técnicas profesionales.",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "ELECT010",
+      "nombre": "Asignatura de Contexto",
+      "creditos": 6,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "22977",
+      "nombre": "Trabajo de Grado II",
+      "creditos": 7,
+      "requisitos": ["22975"],
+      "nivel": 10
+    },
+    {
+      "codigo": "22978",
+      "nombre": "Economía Empresarial",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": 10
+    },
+    {
+      "codigo": "ELECT008",
+      "nombre": "Asignaturas técnicas profesionales.",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 10
+    },
+    {
+      "codigo": "21870",
+      "nombre": "Gerencia de Informática I",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "22490",
+      "nombre": "Seguridad informática",
+      "creditos": 4,
+      "requisitos": ["22972"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24542",
+      "nombre": "Entornos de programación",
+      "creditos": 4,
+      "requisitos": ["22959"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24543",
+      "nombre": "Tratamiento de señales",
+      "creditos": 4,
+      "requisitos": ["20255"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24544",
+      "nombre": "Sistemas discretos y continuos",
+      "creditos": 4,
+      "requisitos": ["20255"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24545",
+      "nombre": "Modelado estructural",
+      "creditos": 4,
+      "requisitos": ["20255", "22963"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24546",
+      "nombre": "Microcontroladores I",
+      "creditos": 4,
+      "requisitos": ["22961"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24548",
+      "nombre": "Auditoría de sistemas",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24549",
+      "nombre": "Investigación operacional",
+      "creditos": 4,
+      "requisitos": ["21857"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24550",
+      "nombre": "Modelos a gran escala",
+      "creditos": 4,
+      "requisitos": ["21857"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24551",
+      "nombre": "Gestión de redes empresariales",
+      "creditos": 4,
+      "requisitos": ["22970"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24552",
+      "nombre": "Inteligencia artificial II",
+      "creditos": 4,
+      "requisitos": ["22971"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24553",
+      "nombre": "Microcontroladores II",
+      "creditos": 4,
+      "requisitos": ["24546"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24554",
+      "nombre": "Trabajo de investigación II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24555",
+      "nombre": "Informática biomédica",
+      "creditos": 4,
+      "requisitos": ["22962"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24556",
+      "nombre": "Sistemas distribuidos",
+      "creditos": 4,
+      "requisitos": ["22972"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24557",
+      "nombre": "Ingeniería de software III",
+      "creditos": 4,
+      "requisitos": ["22973"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24558",
+      "nombre": "Inteligencia artificial III",
+      "creditos": 4,
+      "requisitos": ["24552"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24560",
+      "nombre": "Programación distribuida",
+      "creditos": 4,
+      "requisitos": ["22962"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24936",
+      "nombre": "Compiladores de lenguaje",
+      "creditos": 4,
+      "requisitos": ["22958"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "27288",
+      "nombre": "Interacción Hombre Computador",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "27571",
+      "nombre": "Procesamiento de imágenes digitales",
+      "creditos": 4,
+      "requisitos": ["22962"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "27572",
+      "nombre": "Algoritmos I",
+      "creditos": 4,
+      "requisitos": ["22962"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "27582",
+      "nombre": "Análisis de datos a gran escala",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "27586",
+      "nombre": "Trabajo de investigación I",
+      "creditos": 2,
+      "requisitos": ["CA: 90"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "27798",
+      "nombre": "Optimización convexa",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "28091",
+      "nombre": "Principios y prácticas de desarrollo de software orientado a objetos",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "28661",
+      "nombre": "Introducción a la computación paralela",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "28664",
+      "nombre": "Innovación educativa en la sociedad de la información",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "28665",
+      "nombre": "Modelos de negocios en la sociedad de la información",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "29058",
+      "nombre": "Visión por computador",
+      "creditos": 4,
+      "requisitos": ["22979"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "29155",
+      "nombre": "Arquitectura Empresarial",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "29156",
+      "nombre": "Gestión del conocimiento",
+      "creditos": 4,
+      "requisitos": ["22968"],
+      "nivel": "Electivas"
+    }
+  ]
+}

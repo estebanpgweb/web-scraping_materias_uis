@@ -194,8 +194,57 @@ async function procesarListaCodigos(listaCodigos) {
     "ELECT012",
   ];
 
+    const listaElectivas = [
+      
+      "21279",
+      "21280",
+      "21277",
+      "24463",
+      "24464",
+      "21276",      
+      "23211",
+      "21285",
+      "21281",
+      "21267",
+      "21268",
+      "21269",
+      "24465",
+      "24464",
+    
+  ];
+
+  const listaContextos = [
+    "21269",
+    "23213",
+    "21279",
+    "21266",
+    "21275",
+    "21282",
+    "21283",
+    "21264",
+    "22913",
+    "23600",
+    "25494",
+    "21216",
+    "21252",
+    "25398",
+    "26025",
+    "25315",
+  ];
+
+  const listaContextosLibres = [
+    "26585",// libre de creditos
+    "26591",
+    "23425",
+    "25773",
+    "25769",
+    "25771",
+  ];
+
+  const listaTotal = [...listaCodigos, ...listaContextos, ...listaElectivas, ...listaContextosLibres];
+ 
   try {
-    const resultado = await procesarListaCodigos(listaCodigos);
+    const resultado = await procesarListaCodigos(listaTotal);
     console.log(JSON.stringify(resultado, null, 2));
 
     // Opcional: Guardar en localStorage por si el navegador se cierra

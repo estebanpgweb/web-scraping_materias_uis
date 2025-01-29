@@ -19544,5 +19544,45 @@
         ]
       }
     ]
+  },
+  {
+    "codigo": "29162",
+    "nombre": "SOFTBOL MIXTO",
+    "grupos": [
+      {
+        "grupo": "B01",
+        "capacidad": 20,
+        "matriculados": 11,
+        "horario": [
+          {
+            "dia": "LUNES",
+            "hora": "8:00 - 10:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JOAO MARCELO GUTIERREZ HERRERA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "21286",
+    "nombre": "EVENTOS DEPORTIVOS",
+    "grupos": [
+      {
+        "grupo": "C01",
+        "capacidad": 20,
+        "matriculados": 5,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "LIANELL JOVA ELEJALDE"
+          }
+        ]
+      }
+    ]
   }
 ]

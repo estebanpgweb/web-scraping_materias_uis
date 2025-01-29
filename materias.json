@@ -732,7 +732,22 @@
       "creditos": "",
       "requisitos": [],
       "nivel": "Contexto"
+    },
+    {
+      "codigo": "29162",
+      "nombre": "SOFTBOL MIXTO",
+      "creditos": "",
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo": "21286",
+      "nombre": "EVENTOS DEPORTIVOS",
+      "creditos": "",
+      "requisitos": [],
+      "nivel": "Contexto"
     }
+
   
   ]
 }

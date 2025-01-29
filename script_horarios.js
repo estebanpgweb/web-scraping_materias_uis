@@ -240,9 +240,11 @@ async function procesarListaCodigos(listaCodigos) {
     "25769",
     "25771",
   ];
-  
+
   const contextoAdicionales =[
-    "21270",
+    "29162",
+    "21286",
+
   ];
 
   const listaTotal = [...listaCodigos, ...listaContextos, ...listaElectivas, ...listaContextosLibres];

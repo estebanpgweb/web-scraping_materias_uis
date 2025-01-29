@@ -729,21 +729,21 @@
     {
       "codigo": "21270",
       "nombre": "KARATE DO (MIXTO)",
-      "creditos": "",
+      "creditos": 0,
       "requisitos": [],
       "nivel": "Contexto"
     },
     {
       "codigo": "29162",
       "nombre": "SOFTBOL MIXTO",
-      "creditos": "",
+      "creditos": 0,
       "requisitos": [],
       "nivel": "Contexto"
     },
     {
       "codigo": "21286",
       "nombre": "EVENTOS DEPORTIVOS",
-      "creditos": "",
+      "creditos": 0,
       "requisitos": [],
       "nivel": "Contexto"
     }

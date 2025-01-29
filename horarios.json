@@ -27,7 +27,7 @@
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ROBINSON DELGADO ROJAS"
           }
         ]
       },
@@ -333,8 +333,8 @@
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "102",
             "profesor": "CRISTIAN LEONARDO ECHEVERRIA BALLESTEROS"
           }
         ]
@@ -621,8 +621,8 @@
       },
       {
         "grupo": "PB4",
-        "capacidad": 28,
-        "matriculados": 28,
+        "capacidad": 29,
+        "matriculados": 29,
         "horario": [
           {
             "dia": "LUNES",
@@ -851,8 +851,8 @@
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "301",
             "profesor": "JORGE ANDRES ROJAS GOMEZ"
           },
           {
@@ -865,8 +865,8 @@
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "301",
             "profesor": "JORGE ANDRES ROJAS GOMEZ"
           }
         ]
@@ -1069,7 +1069,7 @@
       },
       {
         "grupo": "PED",
-        "capacidad": 35,
+        "capacidad": 36,
         "matriculados": 35,
         "horario": [
           {
@@ -1209,8 +1209,8 @@
       },
       {
         "grupo": "PF5",
-        "capacidad": 38,
-        "matriculados": 38,
+        "capacidad": 39,
+        "matriculados": 39,
         "horario": [
           {
             "dia": "LUNES",
@@ -1333,8 +1333,8 @@
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "306",
             "profesor": "HUGO GARCIA GUARIN"
           }
         ]
@@ -1375,8 +1375,8 @@
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "103",
             "profesor": "PEDRO NEL JAIMES JAIMES"
           }
         ]
@@ -1389,8 +1389,8 @@
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "103",
             "profesor": "DIANA MARÍA RODRÍGUEZ MORANTES"
           },
           {
@@ -1615,7 +1615,7 @@
       {
         "grupo": "E6",
         "capacidad": 30,
-        "matriculados": 30,
+        "matriculados": 29,
         "horario": [
           {
             "dia": "LUNES",
@@ -1690,8 +1690,8 @@
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "306",
             "profesor": "MIGUEL REINALDO ARAQUE BELTRAN"
           }
         ]
@@ -2570,8 +2570,8 @@
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "307",
             "profesor": "ALEXÁNDER REÁTIGA VILLAMIZAR"
           }
         ]
@@ -2633,8 +2633,8 @@
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "307",
             "profesor": "GIOVANNI ERNESTO CALDERON SILVA"
           }
         ]
@@ -2675,8 +2675,8 @@
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "307",
             "profesor": "YAZMIN RUBIELA COTE CONTRERAS"
           }
         ]
@@ -2794,8 +2794,8 @@
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "306",
             "profesor": "MAYRA ISABEL FERREIRA ORTIZ"
           },
           {
@@ -2836,8 +2836,8 @@
           {
             "dia": "LUNES",
             "hora": "10:00 - 12:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "306",
             "profesor": "LUIS DAVID ORTIZ MARTINEZ"
           },
           {
@@ -3004,8 +3004,8 @@
           {
             "dia": "LUNES",
             "hora": "16:00 - 18:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "307",
             "profesor": "FELIX ANTONIO PAEZ DIAZ"
           },
           {
@@ -3074,8 +3074,8 @@
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
-            "edificio": "",
-            "aula": "",
+            "edificio": "CAMILO TORRES",
+            "aula": "301",
             "profesor": "OSCAR LOZANO MANTILLA"
           }
         ]
@@ -3450,7 +3450,7 @@
       {
         "grupo": "CM",
         "capacidad": 30,
-        "matriculados": 22,
+        "matriculados": 23,
         "horario": [
           {
             "dia": "VIERNES",
@@ -3902,21 +3902,21 @@
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": "SANDRA MILENA CADENA CAMACHO"
+            "profesor": "WILLIAM TORRES DELGADO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": "SANDRA MILENA CADENA CAMACHO"
+            "profesor": "WILLIAM TORRES DELGADO"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": "SANDRA MILENA CADENA CAMACHO"
+            "profesor": "WILLIAM TORRES DELGADO"
           }
         ]
       },
@@ -4062,8 +4062,8 @@
       },
       {
         "grupo": "PE2",
-        "capacidad": 29,
-        "matriculados": 29,
+        "capacidad": 30,
+        "matriculados": 30,
         "horario": [
           {
             "dia": "MARTES",
@@ -4300,28 +4300,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "KAROL VIANNEY SALAZAR ARIZA"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -4335,28 +4335,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "KAROL VIANNEY SALAZAR ARIZA"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -4370,28 +4370,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "LUNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "DANIEL FELIPE SUAREZ URANGO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -4405,28 +4405,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "LUNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "DANIEL FELIPE SUAREZ URANGO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -4440,28 +4440,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           }
         ]
       },
@@ -4475,28 +4475,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           }
         ]
       },
@@ -4510,21 +4510,21 @@
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GONZALEZ CUJIA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "SABADO",
             "hora": "9:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GONZALEZ CUJIA"
           }
         ]
       },
@@ -4538,21 +4538,21 @@
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GONZALEZ CUJIA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "SABADO",
             "hora": "9:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GONZALEZ CUJIA"
           }
         ]
       },
@@ -4566,28 +4566,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -4601,28 +4601,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "RAFAEL CABANZO HERNANDEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -4636,28 +4636,28 @@
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           }
         ]
       },
@@ -4671,28 +4671,28 @@
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           }
         ]
       },
@@ -4706,28 +4706,28 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "CRISTIAN EDUARDO HERNANDEZ CELY"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           }
         ]
       },
@@ -4741,28 +4741,28 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "CRISTIAN EDUARDO HERNANDEZ CELY"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           }
         ]
       },
@@ -4776,28 +4776,28 @@
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -4811,28 +4811,28 @@
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -4846,63 +4846,63 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           }
         ]
       },
       {
         "grupo": "B6B",
         "capacidad": 14,
-        "matriculados": 14,
+        "matriculados": 13,
         "horario": [
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           }
         ]
       },
@@ -4916,28 +4916,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "ROGELIO OSPINA OSPINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           }
         ]
       },
@@ -4951,28 +4951,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "ROGELIO OSPINA OSPINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           }
         ]
       },
@@ -4986,28 +4986,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "CRISTIAN EDUARDO HERNANDEZ CELY"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           }
         ]
       },
@@ -5021,28 +5021,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "CRISTIAN EDUARDO HERNANDEZ CELY"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           }
         ]
       },
@@ -5056,28 +5056,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "dia": "JUEVES",
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           }
         ]
       },
@@ -5091,28 +5091,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "dia": "JUEVES",
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CAMILO ARTURO SUAREZ BALLESTEROS"
           }
         ]
       },
@@ -5126,28 +5126,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "MANUEL ALBERTO FLOREZ TORRES"
           },
           {
             "dia": "LUNES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "CRISTIAN EDUARDO HERNANDEZ CELY"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "MANUEL ALBERTO FLOREZ TORRES"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "MANUEL ALBERTO FLOREZ TORRES"
           }
         ]
       },
@@ -5161,28 +5161,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "MANUEL ALBERTO FLOREZ TORRES"
           },
           {
             "dia": "LUNES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "CRISTIAN EDUARDO HERNANDEZ CELY"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "MANUEL ALBERTO FLOREZ TORRES"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "MANUEL ALBERTO FLOREZ TORRES"
           }
         ]
       },
@@ -5196,21 +5196,21 @@
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 11:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -5224,21 +5224,21 @@
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 11:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -5252,28 +5252,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           }
         ]
       },
@@ -5287,28 +5287,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           }
         ]
       },
@@ -5322,21 +5322,21 @@
             "hora": "14:00 - 17:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -5350,21 +5350,21 @@
             "hora": "14:00 - 17:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "ANGIE MILENA SANCHEZ MENDEZ"
           }
         ]
       },
@@ -5378,28 +5378,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 15:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           }
         ]
       },
@@ -5413,28 +5413,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SERGIO FELIPE MEJIA CAMPOS"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 15:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           }
         ]
       },
@@ -5448,28 +5448,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           }
         ]
       },
@@ -5483,28 +5483,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "NICOLAS HERNANDEZ BELTRAN"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           }
         ]
       },
@@ -5518,21 +5518,21 @@
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 11:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           }
         ]
       },
@@ -5546,21 +5546,21 @@
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 11:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316B",
-            "profesor": ""
+            "profesor": "ESPERANZA AGUILAR DE FLOREZ"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "HOLGER GIOVANNI QUINTERO SANTANDER"
           }
         ]
       },
@@ -5574,28 +5574,28 @@
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HAROLD PAREDES GUTIERREZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HAROLD PAREDES GUTIERREZ"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HAROLD PAREDES GUTIERREZ"
           }
         ]
       },
@@ -5609,28 +5609,28 @@
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HAROLD PAREDES GUTIERREZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HAROLD PAREDES GUTIERREZ"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HAROLD PAREDES GUTIERREZ"
           }
         ]
       },
@@ -5644,28 +5644,28 @@
             "hora": "19:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "MIERCOLES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "dia": "VIERNES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           }
         ]
       },
@@ -5679,28 +5679,28 @@
             "hora": "19:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "MIERCOLES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "JENNYFER CAMILA ACEVEDO MUÑOZ"
           },
           {
             "dia": "VIERNES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           }
         ]
       },
@@ -5714,28 +5714,28 @@
             "hora": "18:00 - 19:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "DANIEL FELIPE SUAREZ URANGO"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "dia": "JUEVES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE ENRIQUE OSORIO VARGAS"
           }
         ]
       },
@@ -5749,28 +5749,28 @@
             "hora": "18:00 - 19:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "310",
-            "profesor": ""
+            "profesor": "DANIEL FELIPE SUAREZ URANGO"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE ENRIQUE OSORIO VARGAS"
           },
           {
             "dia": "JUEVES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE ENRIQUE OSORIO VARGAS"
           }
         ]
       },
@@ -5784,28 +5784,28 @@
             "hora": "18:00 - 19:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           }
         ]
       },
@@ -5819,28 +5819,28 @@
             "hora": "18:00 - 19:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "311",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "PETR TSYGANKOV"
           }
         ]
       }
@@ -6152,28 +6152,28 @@
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 9:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           }
         ]
       },
@@ -6187,28 +6187,28 @@
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 9:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           }
         ]
       },
@@ -6222,28 +6222,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           }
         ]
       },
@@ -6257,28 +6257,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           }
         ]
       },
@@ -6292,28 +6292,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           }
         ]
       },
@@ -6327,28 +6327,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "MARTES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           }
         ]
       },
@@ -6362,28 +6362,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           }
         ]
       },
@@ -6397,28 +6397,28 @@
             "hora": "6:00 - 7:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JORGE HUMBERTO MARTINEZ TELLEZ"
           }
         ]
       },
@@ -6432,28 +6432,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           }
         ]
       },
@@ -6467,28 +6467,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ADRIANA LUCIA GELVEZ CORTES"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           }
         ]
       },
@@ -6509,7 +6509,7 @@
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ROGELIO OSPINA OSPINA"
           },
           {
             "dia": "MIERCOLES",
@@ -6544,7 +6544,7 @@
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ROGELIO OSPINA OSPINA"
           },
           {
             "dia": "MIERCOLES",
@@ -6572,28 +6572,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "EDUARDO ALBERTO OROZCO OSPINO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "EDUARDO ALBERTO OROZCO OSPINO"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "EDUARDO ALBERTO OROZCO OSPINO"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -6607,28 +6607,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "EDUARDO ALBERTO OROZCO OSPINO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "EDUARDO ALBERTO OROZCO OSPINO"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "EDUARDO ALBERTO OROZCO OSPINO"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
-            "edificio": "",
-            "aula": "",
-            "profesor": ""
+            "edificio": "LABORATORIOS LIVIANOS",
+            "aula": "409",
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -6642,28 +6642,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           }
         ]
       },
@@ -6677,28 +6677,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           }
         ]
       },
@@ -6712,28 +6712,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           }
         ]
       },
@@ -6747,28 +6747,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           }
         ]
       },
@@ -6782,28 +6782,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -6817,28 +6817,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -6852,21 +6852,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS JOSE PAEZ GONZALEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS JOSE PAEZ GONZALEZ"
           }
         ]
       },
@@ -6880,21 +6880,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS JOSE PAEZ GONZALEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS JOSE PAEZ GONZALEZ"
           }
         ]
       },
@@ -6908,28 +6908,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           }
         ]
       },
@@ -6943,28 +6943,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           }
         ]
       },
@@ -6978,21 +6978,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           }
         ]
       },
@@ -7006,21 +7006,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           }
         ]
       },
@@ -7034,28 +7034,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JOSÉ DAVID SANABRIA GÓMEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JOSÉ DAVID SANABRIA GÓMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "JUEVES",
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JOSÉ DAVID SANABRIA GÓMEZ"
           }
         ]
       },
@@ -7069,28 +7069,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JOSÉ DAVID SANABRIA GÓMEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JOSÉ DAVID SANABRIA GÓMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JHON STIVENSON PABON NIÑO"
           },
           {
             "dia": "JUEVES",
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JOSÉ DAVID SANABRIA GÓMEZ"
           }
         ]
       },
@@ -7104,21 +7104,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JHAN NICOLAS MARTINEZ LOBO"
           }
         ]
       },
@@ -7132,21 +7132,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JHAN NICOLAS MARTINEZ LOBO"
           }
         ]
       },
@@ -7160,28 +7160,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -7195,28 +7195,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "FREDY FABIAN PARADA BECERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -7230,28 +7230,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "LUNES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "STEPHANY PAOLA VEGA ORTEGA"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           }
         ]
       },
@@ -7265,28 +7265,28 @@
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "LUNES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "STEPHANY PAOLA VEGA ORTEGA"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JAIME ENRIQUE MENESES FONSECA"
           }
         ]
       },
@@ -7300,28 +7300,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "JUEVES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "JUEVES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           }
         ]
       },
@@ -7335,28 +7335,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "JUEVES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "JUEVES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "ABELARDO EFRAIN RUEDA MURILLO"
           }
         ]
       },
@@ -7370,21 +7370,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           }
         ]
       },
@@ -7398,21 +7398,21 @@
             "hora": "10:00 - 13:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ANTONIO CALIXTO GUTIERREZ PIÑERES"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           }
         ]
       },
@@ -7426,28 +7426,28 @@
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -7461,28 +7461,28 @@
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "KAREN LORENA CRISTIANO RODRIGUEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           }
         ]
       },
@@ -7496,28 +7496,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GUERRERO BERMUDEZ"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JORGE HERNAN QUINTERO OROZCO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GUERRERO BERMUDEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GUERRERO BERMUDEZ"
           }
         ]
       },
@@ -7531,28 +7531,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GUERRERO BERMUDEZ"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "409",
-            "profesor": ""
+            "profesor": "JORGE HERNAN QUINTERO OROZCO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GUERRERO BERMUDEZ"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JADER ENRIQUE GUERRERO BERMUDEZ"
           }
         ]
       }
@@ -7773,28 +7773,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316A",
-            "profesor": ""
+            "profesor": "LUIS FRANCISCO GARCIA RUSSI"
           },
           {
             "dia": "MIERCOLES",
             "hora": "7:00 - 9:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316A",
-            "profesor": ""
+            "profesor": "LUIS FRANCISCO GARCIA RUSSI"
           },
           {
             "dia": "MIERCOLES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "dia": "JUEVES",
             "hora": "7:00 - 9:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316A",
-            "profesor": ""
+            "profesor": "LUIS FRANCISCO GARCIA RUSSI"
           }
         ]
       },
@@ -7808,28 +7808,28 @@
             "hora": "7:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316A",
-            "profesor": ""
+            "profesor": "LUIS FRANCISCO GARCIA RUSSI"
           },
           {
             "dia": "MIERCOLES",
             "hora": "7:00 - 9:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316A",
-            "profesor": ""
+            "profesor": "LUIS FRANCISCO GARCIA RUSSI"
           },
           {
             "dia": "MIERCOLES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "dia": "JUEVES",
             "hora": "7:00 - 9:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "316A",
-            "profesor": ""
+            "profesor": "LUIS FRANCISCO GARCIA RUSSI"
           }
         ]
       },
@@ -7843,28 +7843,28 @@
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           }
         ]
       },
@@ -7878,28 +7878,28 @@
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           }
         ]
       },
@@ -7913,28 +7913,28 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 9:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "JUEVES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           }
         ]
       },
@@ -7948,28 +7948,28 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 9:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR FROILAN HERNANDEZ GUERRA"
           },
           {
             "dia": "JUEVES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           }
         ]
       },
@@ -7983,28 +7983,28 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           }
         ]
       },
@@ -8018,28 +8018,28 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "9:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ARTURO PLATA GOMEZ"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           }
         ]
       },
@@ -8053,28 +8053,28 @@
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           }
         ]
       },
@@ -8088,28 +8088,28 @@
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEZID TORRES MORENO"
           }
         ]
       },
@@ -8123,28 +8123,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS LEONARDO BELTRAN RIOS"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS LEONARDO BELTRAN RIOS"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS LEONARDO BELTRAN RIOS"
           }
         ]
       },
@@ -8158,28 +8158,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS LEONARDO BELTRAN RIOS"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "11:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS LEONARDO BELTRAN RIOS"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "CARLOS LEONARDO BELTRAN RIOS"
           }
         ]
       },
@@ -8193,28 +8193,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           }
         ]
       },
@@ -8228,28 +8228,28 @@
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "MARTES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           }
         ]
       },
@@ -8263,28 +8263,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR ENRIQUE RAGO ALBUJAS"
           }
         ]
       },
@@ -8298,28 +8298,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "WILLIAM ANDRES JAIMES ESPINDOLA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "10:00 - 11:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR ENRIQUE RAGO ALBUJAS"
           },
           {
             "dia": "VIERNES",
             "hora": "10:00 - 12:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "HECTOR ENRIQUE RAGO ALBUJAS"
           }
         ]
       },
@@ -8333,28 +8333,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEINZON RODRIGUEZ GARCIA"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 15:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEINZON RODRIGUEZ GARCIA"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEINZON RODRIGUEZ GARCIA"
           }
         ]
       },
@@ -8368,28 +8368,28 @@
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEINZON RODRIGUEZ GARCIA"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 15:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEINZON RODRIGUEZ GARCIA"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "YEINZON RODRIGUEZ GARCIA"
           }
         ]
       },
@@ -8403,28 +8403,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ANDRES CAMILO GARCIA CASTRO"
           },
           {
             "dia": "JUEVES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           }
         ]
       },
@@ -8438,63 +8438,63 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "JUEVES",
             "hora": "10:00 - 12:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ANDRES CAMILO GARCIA CASTRO"
           },
           {
             "dia": "JUEVES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           }
         ]
       },
       {
         "grupo": "E4A",
         "capacidad": 14,
-        "matriculados": 13,
+        "matriculados": 14,
         "horario": [
           {
             "dia": "MARTES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "VIERNES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           }
         ]
       },
@@ -8508,28 +8508,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           },
           {
             "dia": "VIERNES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "VIERNES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "SANDRA PATRICIA CORZO MANTILLA"
           }
         ]
       },
@@ -8543,28 +8543,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -8578,28 +8578,28 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MIERCOLES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "JUEVES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "15:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -8613,21 +8613,21 @@
             "hora": "16:00 - 19:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           }
         ]
       },
@@ -8641,21 +8641,21 @@
             "hora": "16:00 - 19:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LIKIDCEN FRAMSOL LOPEZ SUSPES"
           },
           {
             "dia": "VIERNES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           }
         ]
       },
@@ -8669,28 +8669,28 @@
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 15:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -8704,28 +8704,28 @@
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 15:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LAURA LARA ORTIZ"
           }
         ]
       },
@@ -8739,28 +8739,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           }
         ]
       },
@@ -8774,28 +8774,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "6:00 - 8:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ALEXANDRA PLATA PLANIDINA"
           }
         ]
       },
@@ -8809,28 +8809,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           }
         ]
       },
@@ -8844,28 +8844,28 @@
             "hora": "16:00 - 17:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "MARTES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           },
           {
             "dia": "JUEVES",
             "hora": "14:00 - 16:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JANETH FERNANDEZ PINTO"
           },
           {
             "dia": "JUEVES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "ELBER RODRIGUEZ MORENO"
           }
         ]
       },
@@ -8879,28 +8879,28 @@
             "hora": "17:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       },
@@ -8914,56 +8914,56 @@
             "hora": "17:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "dia": "MARTES",
             "hora": "8:00 - 10:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "JULIAN ANDRES JAIMES SANTAMARIA"
           },
           {
             "dia": "MIERCOLES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       },
       {
         "grupo": "G1A",
         "capacidad": 14,
-        "matriculados": 14,
+        "matriculados": 13,
         "horario": [
           {
             "dia": "MARTES",
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "dia": "SABADO",
             "hora": "6:00 - 9:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       },
@@ -8977,21 +8977,21 @@
             "hora": "18:00 - 20:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "LABORATORIOS LIVIANOS",
             "aula": "404",
-            "profesor": ""
+            "profesor": "ZAYDA PAOLA REYES QUIJANO"
           },
           {
             "dia": "SABADO",
             "hora": "6:00 - 9:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "JERSON IVAN REINA MEDRANO"
           }
         ]
       }
@@ -9482,14 +9482,14 @@
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LUIS CARLOS GOMEZ FLOREZ"
           },
           {
             "dia": "VIERNES",
             "hora": "14:00 - 16:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LUIS CARLOS GOMEZ FLOREZ"
           }
         ]
       },
@@ -9503,14 +9503,14 @@
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LUIS CARLOS GOMEZ FLOREZ"
           },
           {
             "dia": "VIERNES",
             "hora": "16:00 - 18:00",
             "edificio": "",
             "aula": "",
-            "profesor": ""
+            "profesor": "LUIS CARLOS GOMEZ FLOREZ"
           }
         ]
       }
@@ -10792,7 +10792,7 @@
       {
         "grupo": "A",
         "capacidad": 5000,
-        "matriculados": 1307,
+        "matriculados": 1310,
         "horario": []
       }
     ]
@@ -10999,7 +10999,7 @@
       {
         "grupo": "A",
         "capacidad": 5000,
-        "matriculados": 1185,
+        "matriculados": 1188,
         "horario": []
       }
     ]
@@ -11471,8 +11471,8 @@
       },
       {
         "grupo": "PC3",
-        "capacidad": 28,
-        "matriculados": 28,
+        "capacidad": 29,
+        "matriculados": 29,
         "horario": [
           {
             "dia": "LUNES",
@@ -12059,7 +12059,7 @@
       },
       {
         "grupo": "PF6",
-        "capacidad": 35,
+        "capacidad": 36,
         "matriculados": 35,
         "horario": [
           {
@@ -12087,8 +12087,8 @@
       },
       {
         "grupo": "PF7",
-        "capacidad": 40,
-        "matriculados": 40,
+        "capacidad": 41,
+        "matriculados": 41,
         "horario": [
           {
             "dia": "LUNES",
@@ -12136,7 +12136,7 @@
       {
         "grupo": "A01",
         "capacidad": 30,
-        "matriculados": 29,
+        "matriculados": 30,
         "horario": [
           {
             "dia": "LUNES",
@@ -12241,7 +12241,7 @@
       {
         "grupo": "A08",
         "capacidad": 30,
-        "matriculados": 22,
+        "matriculados": 21,
         "horario": [
           {
             "dia": "MARTES",
@@ -12674,7 +12674,7 @@
       },
       {
         "grupo": "PA5",
-        "capacidad": 20,
+        "capacidad": 21,
         "matriculados": 20,
         "horario": [
           {
@@ -12884,7 +12884,7 @@
       },
       {
         "grupo": "PAG",
-        "capacidad": 28,
+        "capacidad": 29,
         "matriculados": 28,
         "horario": [
           {
@@ -12927,7 +12927,7 @@
       {
         "grupo": "PAI",
         "capacidad": 23,
-        "matriculados": 22,
+        "matriculados": 23,
         "horario": [
           {
             "dia": "MARTES",
@@ -13010,7 +13010,7 @@
       },
       {
         "grupo": "PB4",
-        "capacidad": 24,
+        "capacidad": 25,
         "matriculados": 24,
         "horario": [
           {
@@ -13053,7 +13053,7 @@
       {
         "grupo": "PB7",
         "capacidad": 20,
-        "matriculados": 18,
+        "matriculados": 19,
         "horario": [
           {
             "dia": "MARTES",
@@ -13444,7 +13444,7 @@
       {
         "grupo": "A05",
         "capacidad": 25,
-        "matriculados": 25,
+        "matriculados": 24,
         "horario": [
           {
             "dia": "LUNES",
@@ -13808,7 +13808,7 @@
       {
         "grupo": "C05",
         "capacidad": 22,
-        "matriculados": 19,
+        "matriculados": 20,
         "horario": [
           {
             "dia": "LUNES",
@@ -13997,7 +13997,7 @@
       {
         "grupo": "F04",
         "capacidad": 20,
-        "matriculados": 10,
+        "matriculados": 11,
         "horario": [
           {
             "dia": "LUNES",
@@ -14493,8 +14493,8 @@
       },
       {
         "grupo": "PE6",
-        "capacidad": 0,
-        "matriculados": 0,
+        "capacidad": 20,
+        "matriculados": 20,
         "horario": [
           {
             "dia": "LUNES",
@@ -14521,8 +14521,8 @@
       },
       {
         "grupo": "PE7",
-        "capacidad": 0,
-        "matriculados": 0,
+        "capacidad": 20,
+        "matriculados": 19,
         "horario": [
           {
             "dia": "LUNES",
@@ -14605,7 +14605,7 @@
       },
       {
         "grupo": "PF2",
-        "capacidad": 19,
+        "capacidad": 20,
         "matriculados": 19,
         "horario": [
           {
@@ -14633,8 +14633,8 @@
       },
       {
         "grupo": "PF3",
-        "capacidad": 0,
-        "matriculados": 0,
+        "capacidad": 20,
+        "matriculados": 20,
         "horario": [
           {
             "dia": "LUNES",
@@ -14948,7 +14948,7 @@
       {
         "grupo": "B05",
         "capacidad": 22,
-        "matriculados": 22,
+        "matriculados": 21,
         "horario": [
           {
             "dia": "LUNES",
@@ -15598,7 +15598,7 @@
       {
         "grupo": "P77",
         "capacidad": 34,
-        "matriculados": 33,
+        "matriculados": 30,
         "horario": [
           {
             "dia": "SABADO",
@@ -15703,7 +15703,7 @@
       {
         "grupo": "PB2",
         "capacidad": 23,
-        "matriculados": 22,
+        "matriculados": 23,
         "horario": [
           {
             "dia": "MARTES",
@@ -15871,14 +15871,14 @@
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": "DIANA MARCELA HERNANDEZ GUTIERREZ"
+            "profesor": "ENDER ENRIQUE ANDRADE CAICEDO"
           },
           {
             "dia": "MIERCOLES",
             "hora": "8:00 - 10:00",
             "edificio": "",
             "aula": "",
-            "profesor": "DIANA MARCELA HERNANDEZ GUTIERREZ"
+            "profesor": "ENDER ENRIQUE ANDRADE CAICEDO"
           }
         ]
       },
@@ -15968,7 +15968,7 @@
       },
       {
         "grupo": "PC6",
-        "capacidad": 25,
+        "capacidad": 26,
         "matriculados": 25,
         "horario": [
           {
@@ -16305,7 +16305,7 @@
       {
         "grupo": "PF5",
         "capacidad": 28,
-        "matriculados": 27,
+        "matriculados": 28,
         "horario": [
           {
             "dia": "MARTES",
@@ -18868,7 +18868,7 @@
       {
         "grupo": "B05",
         "capacidad": 22,
-        "matriculados": 22,
+        "matriculados": 21,
         "horario": [
           {
             "dia": "LUNES",

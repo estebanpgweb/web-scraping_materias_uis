@@ -725,8 +725,14 @@
       "creditos":4,
       "requisitos": [],
       "nivel": "Contexto"
+    },
+    {
+      "codigo": "21270",
+      "nombre": "KARATE DO (MIXTO)",
+      "creditos": "",
+      "requisitos": [],
+      "nivel": "Contexto"
     }
-
   
   ]
 }

@@ -28,6 +28,6 @@ async function obtenerHorariosUnicos(rutaMaterias, rutaHorarios) {
 
 // Ejemplo de uso:
 const rutaMaterias = "./materias.json"; // Ruta al archivo materias.json
-const rutaHorarios = "./contexto_libre.json"; // Ruta al archivo contexto_libre.json
+const rutaHorarios = "./horarios.json"; // Ruta al archivo contexto_libre.json
 // Llamar a la función
 obtenerHorariosUnicos(rutaMaterias, rutaHorarios);

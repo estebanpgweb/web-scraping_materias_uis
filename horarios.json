@@ -19510,5 +19510,39 @@
         ]
       }
     ]
+  },
+  {
+    "codigo": "21270",
+    "nombre": "KARATE DO (MIXTO)",
+    "grupos": [
+      {
+        "grupo": "C01",
+        "capacidad": 15,
+        "matriculados": 8,
+        "horario": [
+          {
+            "dia": "MARTES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JUAN JOSE LANDINEZ CRUZ"
+          }
+        ]
+      },
+      {
+        "grupo": "C02",
+        "capacidad": 15,
+        "matriculados": 14,
+        "horario": [
+          {
+            "dia": "VIERNES",
+            "hora": "10:00 - 12:00",
+            "edificio": "",
+            "aula": "",
+            "profesor": "JUAN JOSE LANDINEZ CRUZ"
+          }
+        ]
+      }
+    ]
   }
 ]

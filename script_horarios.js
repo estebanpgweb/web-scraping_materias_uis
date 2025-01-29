@@ -240,11 +240,15 @@ async function procesarListaCodigos(listaCodigos) {
     "25769",
     "25771",
   ];
+  
+  const contextoAdicionales =[
+    "21270",
+  ];
 
   const listaTotal = [...listaCodigos, ...listaContextos, ...listaElectivas, ...listaContextosLibres];
  
   try {
-    const resultado = await procesarListaCodigos(listaTotal);
+    const resultado = await procesarListaCodigos(contextoAdicionales);
     console.log(JSON.stringify(resultado, null, 2));
 
     // Opcional: Guardar en localStorage por si el navegador se cierra

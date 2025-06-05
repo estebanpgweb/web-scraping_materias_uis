@@ -1,0 +1,24 @@
+{
+  "name": "csv-to-mongo-converter",
+  "version": "1.0.0",
+  "description": "Convertidor de CSV de estudiantes a formato JSON para MongoDB",
+  "main": "converter.js",
+  "scripts": {
+    "start": "node converter.js",
+    "convert": "node converter.js",
+    "convert-dir": "node converter.js --dir"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "csv",
+    "json",
+    "mongodb",
+    "converter",
+    "students"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT"
+}

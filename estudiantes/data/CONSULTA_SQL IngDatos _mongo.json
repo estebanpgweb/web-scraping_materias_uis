@@ -1,0 +1,2444 @@
+[
+  {
+    "name": "JOSE JAVIER",
+    "lastname": "ACEVEDO RUIZ",
+    "username": "jose2250928@correo.uis.edu.co",
+    "identification": "2250928",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "IVANNA ISABEL",
+    "lastname": "ALVAREZ SOTILLO",
+    "username": "ivanna2251805@correo.uis.edu.co",
+    "identification": "2251805",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MATEO",
+    "lastname": "AMAYA MORENO",
+    "username": "mateo2250921@correo.uis.edu.co",
+    "identification": "2250921",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "PAULA LIZETH",
+    "lastname": "ARDILA PINZON",
+    "username": "paula2243586@correo.uis.edu.co",
+    "identification": "2243586",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN JOSE",
+    "lastname": "ARIAS CAMELO",
+    "username": "juan2252008@correo.uis.edu.co",
+    "identification": "2252008",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SOL VALERIA",
+    "lastname": "ARIAS ROJAS",
+    "username": "sol2251518@correo.uis.edu.co",
+    "identification": "2251518",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MARTIN SANTIAGO",
+    "lastname": "ARIZA CAMARGO",
+    "username": "martin2251516@correo.uis.edu.co",
+    "identification": "2251516",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ELIAS DAVID",
+    "lastname": "ARRIETA OLIVERO",
+    "username": "elias2250952@correo.uis.edu.co",
+    "identification": "2250952",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN PABLO",
+    "lastname": "AYALA JACHO",
+    "username": "juan2243560@correo.uis.edu.co",
+    "identification": "2243560",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JULIAN DAVID",
+    "lastname": "BAENA PRADA",
+    "username": "julian2243687@correo.uis.edu.co",
+    "identification": "2243687",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SEBASTIAN ANDRES",
+    "lastname": "BALDOVINO SUAREZ",
+    "username": "sebastian2243565@correo.uis.edu.co",
+    "identification": "2243565",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANGEL SANTIAGO",
+    "lastname": "BARAJAS ARBELAEZ",
+    "username": "angel2251511@correo.uis.edu.co",
+    "identification": "2251511",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JERONIMO ANDRES MATEO",
+    "lastname": "BAZAN ROJAS",
+    "username": "jeronimo2243590@correo.uis.edu.co",
+    "identification": "2243590",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANGIE NICOLE",
+    "lastname": "BOADA MOGOLLON",
+    "username": "angie2243672@correo.uis.edu.co",
+    "identification": "2243672",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SANTIAGO",
+    "lastname": "CAPON FLOREZ",
+    "username": "santiago2250940@correo.uis.edu.co",
+    "identification": "2250940",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MANUEL ESTEBAN",
+    "lastname": "CARDENAS HURTADO",
+    "username": "manuel2251663@correo.uis.edu.co",
+    "identification": "2251663",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN DAVID",
+    "lastname": "CASTRO PACHECO",
+    "username": "juan2250916@correo.uis.edu.co",
+    "identification": "2250916",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DAVID SANTIAGO",
+    "lastname": "CEDIEL REMOLINA",
+    "username": "david2250933@correo.uis.edu.co",
+    "identification": "2250933",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SAMUEL MATEO",
+    "lastname": "CHACON OJEDA",
+    "username": "samuel2251508@correo.uis.edu.co",
+    "identification": "2251508",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOHAN STIP",
+    "lastname": "CHAPARRO GUERRERO",
+    "username": "johan2243677@correo.uis.edu.co",
+    "identification": "2243677",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MARIA JOSE",
+    "lastname": "CHAVEZ TORRES",
+    "username": "maria2251727@correo.uis.edu.co",
+    "identification": "2251727",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SERGIO ESTEBAN",
+    "lastname": "CONTRERAS MARTINEZ",
+    "username": "sergio2250950@correo.uis.edu.co",
+    "identification": "2250950",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SANTIAGO",
+    "lastname": "CORTES MOJICA",
+    "username": "santiago2251513@correo.uis.edu.co",
+    "identification": "2251513",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANGEL JAVIER",
+    "lastname": "CORZO ARIAS",
+    "username": "angel2250926@correo.uis.edu.co",
+    "identification": "2250926",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "LUISA FERNANDA",
+    "lastname": "DORIA YABRUDY",
+    "username": "luisa2251519@correo.uis.edu.co",
+    "identification": "2251519",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOHAN STIVEEN",
+    "lastname": "DUEÑAS LOPEZ",
+    "username": "johan2243599@correo.uis.edu.co",
+    "identification": "2243599",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DANIEL ANDRES",
+    "lastname": "DURAN FLOREZ",
+    "username": "daniel2251786@correo.uis.edu.co",
+    "identification": "2251786",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN JOSE",
+    "lastname": "ESPINOSA ORTEGA",
+    "username": "juan2243551@correo.uis.edu.co",
+    "identification": "2243551",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "PEDRO ISAAC",
+    "lastname": "ESTUPIÑAN RODRIGUEZ",
+    "username": "pedro2243574@correo.uis.edu.co",
+    "identification": "2243574",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DIGNEIRY",
+    "lastname": "GALVIS ARROYO",
+    "username": "digneiry2243675@correo.uis.edu.co",
+    "identification": "2243675",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SHARITH GERALDINE",
+    "lastname": "GAMBOA DELGADO",
+    "username": "sharith2232730@correo.uis.edu.co",
+    "identification": "2232730",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SARA GISSELA",
+    "lastname": "GAMBOA MORALES",
+    "username": "sara2251886@correo.uis.edu.co",
+    "identification": "2251886",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOSE JULIAN",
+    "lastname": "GAMBOA MORENO",
+    "username": "jose2250947@correo.uis.edu.co",
+    "identification": "2250947",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "YARILIS MILETH",
+    "lastname": "GARCIA GOMEZ",
+    "username": "yarilis2252121@correo.uis.edu.co",
+    "identification": "2252121",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DANYELLE STEVEN",
+    "lastname": "GIRALDO JIMENEZ",
+    "username": "danyelle2250951@correo.uis.edu.co",
+    "identification": "2250951",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DAVID SANTIAGO",
+    "lastname": "GOMEZ CAICEDO",
+    "username": "david2252119@correo.uis.edu.co",
+    "identification": "2252119",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "CHRISTIAN CAMILO",
+    "lastname": "GOMEZ JAIMES",
+    "username": "christian2250923@correo.uis.edu.co",
+    "identification": "2250923",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN JOSE",
+    "lastname": "GOMEZ PARRA",
+    "username": "juan2251895@correo.uis.edu.co",
+    "identification": "2251895",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "RODRIGO STIVEN",
+    "lastname": "GOMEZ SOLER",
+    "username": "rodrigo2250943@correo.uis.edu.co",
+    "identification": "2250943",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANDRES ALEJANDRO",
+    "lastname": "GONZALEZ SUAREZ",
+    "username": "andres2252108@correo.uis.edu.co",
+    "identification": "2252108",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MIGUEL ANGEL",
+    "lastname": "GUERRA BORRERO",
+    "username": "miguel2250918@correo.uis.edu.co",
+    "identification": "2250918",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DIEGO",
+    "lastname": "HERAZO MARTINEZ",
+    "username": "diego2251704@correo.uis.edu.co",
+    "identification": "2251704",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANTHONI LEXANDRE",
+    "lastname": "HERNANDEZ DIAZ",
+    "username": "anthoni2191198@correo.uis.edu.co",
+    "identification": "2191198",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "KAREN",
+    "lastname": "HERNANDEZ LOZANO",
+    "username": "karen2243607@correo.uis.edu.co",
+    "identification": "2243607",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "CARLOS DAVID",
+    "lastname": "HERRERA RODRIGUEZ",
+    "username": "carlos2243562@correo.uis.edu.co",
+    "identification": "2243562",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN SEBASTIAN",
+    "lastname": "HERRERA SUAREZ",
+    "username": "juan2243569@correo.uis.edu.co",
+    "identification": "2243569",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "RANDOLPH JESID",
+    "lastname": "IRAZABAL PINTO",
+    "username": "randolph2243558@correo.uis.edu.co",
+    "identification": "2243558",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN JOSE",
+    "lastname": "JAUREGUI MENDOZA",
+    "username": "juan2250920@correo.uis.edu.co",
+    "identification": "2250920",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SOFIA DEL ROSARIO",
+    "lastname": "LARES SANCHEZ",
+    "username": "sofia2243584@correo.uis.edu.co",
+    "identification": "2243584",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SEBASTIAN MATEO",
+    "lastname": "LEIVA LIZARAZO",
+    "username": "sebastian2230339@correo.uis.edu.co",
+    "identification": "2230339",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANDRES FELIPE",
+    "lastname": "MANTILLA ALMEYDA",
+    "username": "andres2250931@correo.uis.edu.co",
+    "identification": "2250931",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN CARLOS",
+    "lastname": "MANTILLA BELEÑO",
+    "username": "juan2243592@correo.uis.edu.co",
+    "identification": "2243592",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANDRES SANTIAGO",
+    "lastname": "MARIN FORERO",
+    "username": "andres2243556@correo.uis.edu.co",
+    "identification": "2243556",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MANUEL SANTIAGO",
+    "lastname": "MARTINEZ LEGUIZAMO",
+    "username": "manuel2251986@correo.uis.edu.co",
+    "identification": "2251986",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "CARLOS DANIEL",
+    "lastname": "MARTINEZ RAMIREZ",
+    "username": "carlos2250917@correo.uis.edu.co",
+    "identification": "2250917",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SHILOH SAIOA",
+    "lastname": "MARTINEZ SUAREZ",
+    "username": "shiloh2251905@correo.uis.edu.co",
+    "identification": "2251905",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANDRES DAVID",
+    "lastname": "MERCADO BARBA",
+    "username": "andres2251310@correo.uis.edu.co",
+    "identification": "2251310",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JESUS DAVID",
+    "lastname": "MEZA TOLEDO",
+    "username": "jesus2243682@correo.uis.edu.co",
+    "identification": "2243682",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "EMANUEL",
+    "lastname": "MIRANDA SINNING",
+    "username": "emanuel2250913@correo.uis.edu.co",
+    "identification": "2250913",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MARIO JOSE",
+    "lastname": "MORENO RAMIREZ",
+    "username": "mario2250941@correo.uis.edu.co",
+    "identification": "2250941",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN ANDRES",
+    "lastname": "MORERA RAMIREZ",
+    "username": "juan2243581@correo.uis.edu.co",
+    "identification": "2243581",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SANTIAGO",
+    "lastname": "MUÑOZ MANTILLA",
+    "username": "santiago2251514@correo.uis.edu.co",
+    "identification": "2251514",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "NICOLAS ELIAS",
+    "lastname": "NAVARRO TORRES",
+    "username": "nicolas2251504@correo.uis.edu.co",
+    "identification": "2251504",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JULIAN SANTIAGO",
+    "lastname": "OJEDA CARRASCAL",
+    "username": "julian2250924@correo.uis.edu.co",
+    "identification": "2250924",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "CARLOS SAMUEL",
+    "lastname": "ORTIZ NUÑEZ",
+    "username": "carlos2251783@correo.uis.edu.co",
+    "identification": "2251783",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "LAURA VALENTINA",
+    "lastname": "ORTIZ VILLAMIZAR",
+    "username": "laura2243553@correo.uis.edu.co",
+    "identification": "2243553",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MAXIMILIANO",
+    "lastname": "OSORIO MARTINEZ",
+    "username": "maximiliano2250914@correo.uis.edu.co",
+    "identification": "2250914",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "KAROL YAMILE",
+    "lastname": "PALOMINO PRADA",
+    "username": "karol2243579@correo.uis.edu.co",
+    "identification": "2243579",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "VALERIA",
+    "lastname": "PATIÑO FUENMAYOR",
+    "username": "valeria2192824@correo.uis.edu.co",
+    "identification": "2192824",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOEL ALEJANDRO",
+    "lastname": "PEREZ GRAU",
+    "username": "joel2251755@correo.uis.edu.co",
+    "identification": "2251755",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "NEYDER FABIAN",
+    "lastname": "PEÑA GONZALEZ",
+    "username": "neyder2252004@correo.uis.edu.co",
+    "identification": "2252004",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MARIA JOSE",
+    "lastname": "PINILLA RINCON",
+    "username": "maria2251506@correo.uis.edu.co",
+    "identification": "2251506",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN DIEGO",
+    "lastname": "PINZON SUAREZ",
+    "username": "juan2243604@correo.uis.edu.co",
+    "identification": "2243604",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ISABELLA",
+    "lastname": "PLATA OTERO",
+    "username": "isabella2243568@correo.uis.edu.co",
+    "identification": "2243568",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DIEGO JAVIER",
+    "lastname": "QUINTERO OJEDA",
+    "username": "diego2243593@correo.uis.edu.co",
+    "identification": "2243593",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOAN SEBASTIAN",
+    "lastname": "RAMIREZ AYALA",
+    "username": "joan2250936@correo.uis.edu.co",
+    "identification": "2250936",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ALEJANDRO",
+    "lastname": "RAMIREZ MEJIA",
+    "username": "alejandro2250930@correo.uis.edu.co",
+    "identification": "2250930",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOSE FERNANDO MANASES",
+    "lastname": "RAMIREZ MORA",
+    "username": "josefernando2250919@correo.uis.edu.co",
+    "identification": "2250919",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "TOMAS ANDRES",
+    "lastname": "RAMIREZ PINILLA",
+    "username": "tomas2251788@correo.uis.edu.co",
+    "identification": "2251788",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "VIVIAN YULITZA",
+    "lastname": "RAMIREZ RAMOS",
+    "username": "vivian2243563@correo.uis.edu.co",
+    "identification": "2243563",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN JOSE",
+    "lastname": "RANGEL CAMACHO",
+    "username": "juan2243554@correo.uis.edu.co",
+    "identification": "2243554",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "LAURYTH PATRICIA",
+    "lastname": "ROCHA MARTINEZ",
+    "username": "lauryth2243686@correo.uis.edu.co",
+    "identification": "2243686",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "LESLY GABRIELA",
+    "lastname": "RODRIGUEZ",
+    "username": "lesly2251510@correo.uis.edu.co",
+    "identification": "2251510",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOSE DANIEL",
+    "lastname": "RODRIGUEZ SERRANO",
+    "username": "jose2243688@correo.uis.edu.co",
+    "identification": "2243688",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "COLLIN DANIEL",
+    "lastname": "ROJAS ALVAREZ",
+    "username": "collin2243587@correo.uis.edu.co",
+    "identification": "2243587",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MANUEL ALEJANDRO",
+    "lastname": "ROJAS SIERRA",
+    "username": "manuel2250938@correo.uis.edu.co",
+    "identification": "2250938",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MARIA FERNANDA",
+    "lastname": "ROJAS VILLAMIZAR",
+    "username": "maria2243576@correo.uis.edu.co",
+    "identification": "2243576",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DANIEL ESTEBAN",
+    "lastname": "ROMERO DUEÑES",
+    "username": "daniel2250948@correo.uis.edu.co",
+    "identification": "2250948",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "KEVIN ADRIAN",
+    "lastname": "ROMERO LOZADA",
+    "username": "kevin2251502@correo.uis.edu.co",
+    "identification": "2251502",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN PABLO",
+    "lastname": "RUEDA ESPARZA",
+    "username": "juan2243585@correo.uis.edu.co",
+    "identification": "2243585",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MARIA JULIANA",
+    "lastname": "RUEDA PEREZ",
+    "username": "maria2251801@correo.uis.edu.co",
+    "identification": "2251801",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOSHUA ALEJANDRO",
+    "lastname": "SAAVEDRA CARDENAS",
+    "username": "joshua2252148@correo.uis.edu.co",
+    "identification": "2252148",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SANTIAGO ANDRES",
+    "lastname": "SAAVEDRA GARCIA",
+    "username": "santiago2251936@correo.uis.edu.co",
+    "identification": "2251936",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "MIGUEL ANGEL",
+    "lastname": "SANCHEZ RAMIREZ",
+    "username": "MIGUEL.SANCHEZ2@correo.uis.edu.co",
+    "identification": "2120524",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SANTIAGO",
+    "lastname": "SARMIENTO CAMARGO",
+    "username": "santiago2250946@correo.uis.edu.co",
+    "identification": "2250946",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "SANTIAGO",
+    "lastname": "SEPULVEDA BLANCO",
+    "username": "santiago2243557@correo.uis.edu.co",
+    "identification": "2243557",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN JOSE",
+    "lastname": "SERRANO BELLO",
+    "username": "juan2243567@correo.uis.edu.co",
+    "identification": "2243567",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JULIO CESAR",
+    "lastname": "SIERRA JIMENEZ",
+    "username": "julio2251503@correo.uis.edu.co",
+    "identification": "2251503",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "HANNER FERLEY",
+    "lastname": "SOGAMOSO JIMENEZ",
+    "username": "hanner2201447@correo.uis.edu.co",
+    "identification": "2201447",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "ANGIE VALENTINA",
+    "lastname": "SUAREZ DUARTE",
+    "username": "angie2243595@correo.uis.edu.co",
+    "identification": "2243595",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN ANDRES",
+    "lastname": "SUAREZ EGEA",
+    "username": "juan2243606@correo.uis.edu.co",
+    "identification": "2243606",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOSE DAVID",
+    "lastname": "TARAZONA DIAZ",
+    "username": "jose2243566@correo.uis.edu.co",
+    "identification": "2243566",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DANIEL ALEXANDER",
+    "lastname": "TEJEDA VIERA",
+    "username": "daniel2243670@correo.uis.edu.co",
+    "identification": "2243670",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DAIRO ALEXANDER",
+    "lastname": "TOLOZA GAMBOA",
+    "username": "dairo2243596@correo.uis.edu.co",
+    "identification": "2243596",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JOSE DANIEL",
+    "lastname": "TRUJILLO GARCIA",
+    "username": "jose2250934@correo.uis.edu.co",
+    "identification": "2250934",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "DAVID SANTIAGO",
+    "lastname": "USCATEGUI ZUBIETA",
+    "username": "david2250932@correo.uis.edu.co",
+    "identification": "2250932",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "CRISTIAN JOHAN",
+    "lastname": "VERGEL COLLANTES",
+    "username": "cristian2201584@correo.uis.edu.co",
+    "identification": "2201584",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "GISELLE ALEJANDRA",
+    "lastname": "VESGA ROMERO",
+    "username": "giselle2243603@correo.uis.edu.co",
+    "identification": "2243603",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "IVAN DANIEL",
+    "lastname": "VILLAMIZAR TORRES",
+    "username": "ivan2252001@correo.uis.edu.co",
+    "identification": "2252001",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "JUAN CAMILO",
+    "lastname": "VILLARREAL OLARTE",
+    "username": "juan2250949@correo.uis.edu.co",
+    "identification": "2250949",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  },
+  {
+    "name": "GABRIEL ALEJANDRO",
+    "lastname": "ZAMBRANO HERAZO",
+    "username": "gabriel2250944@correo.uis.edu.co",
+    "identification": "2250944",
+    "kind": "STUDENT",
+    "password": "",
+    "verified": false,
+    "permissions": [
+      "read:schedule",
+      "write:schedule",
+      "delete:schedule",
+      "write:appeal",
+      "read:appeal",
+      "delete:appeal",
+      "read:subject"
+    ],
+    "program": {
+      "id": 50,
+      "name": "INGENIERIA EN CIENCIA DE DATOS"
+    }
+  }
+]

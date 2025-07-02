@@ -82,6 +82,10 @@ function transformToMongoFormat(data) {
       id: 24,
       name: "INGENIERIA MECANICA",
     },
+    32: {
+      id: 32,
+      name: "INGENIERIA DE PETROLEOS",
+    },
   };
 
   const program = programMap[data.programa_academico] || {

@@ -1,0 +1,440 @@
+{
+  "materias": [
+    {
+      "codigo": "20252",
+      "nombre": "Calculo I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23015",
+      "nombre": "Geometria Descriptiva",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23423",
+      "nombre": "Cultura Fisica y Deportiva",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "23427",
+      "nombre": "Taller de Lenguaje",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24588",
+      "nombre": "Diseño i Creatividad",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24589",
+      "nombre": "Expresion i Bocetacion",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "24948",
+      "nombre": "Vida y Cultura Universitaria",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "20253",
+      "nombre": "Calculo II",
+      "creditos": 4,
+      "requisitos": [
+        "20252"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "22950",
+      "nombre": "Fisica I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "24590",
+      "nombre": "Diseño II Lenguaje Basico",
+      "creditos": 5,
+      "requisitos": [
+        "24588"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "24591",
+      "nombre": "Dibujo Mecanico",
+      "creditos": null,
+      "requisitos": [
+        "23015"
+      ],
+      "nivel": 2
+    },
+    {
+      "codigo": "24592",
+      "nombre": "Metodologia del Diseño",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "20113",
+      "nombre": "Mecanica Analitica",
+      "creditos": 4,
+      "requisitos": [
+        "20253",
+        "22950"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "24593",
+      "nombre": "Diseño III Configuracion",
+      "creditos": 5,
+      "requisitos": [
+        "24590"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "24594",
+      "nombre": "Expresion II Tridimensional",
+      "creditos": 3,
+      "requisitos": [
+        "24589"
+      ],
+      "nivel": 3
+    },
+    {
+      "codigo": "24595",
+      "nombre": "Ergonomia Fisica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "24596",
+      "nombre": "Semiotica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "24597",
+      "nombre": "Diseño IV Bioforma",
+      "creditos": 5,
+      "requisitos": [
+        "24593"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "24598",
+      "nombre": "Expresion III Tecnicas - Color",
+      "creditos": 3,
+      "requisitos": [
+        "24594"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "24599",
+      "nombre": "Ergonomia Cognitiva y Ambiental",
+      "creditos": 3,
+      "requisitos": [
+        "24595"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "24600",
+      "nombre": "Materiales y Procesos I Madera",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "24601",
+      "nombre": "Mecanica de Solidos",
+      "creditos": 4,
+      "requisitos": [
+        "20113"
+      ],
+      "nivel": 4
+    },
+    {
+      "codigo": "23025",
+      "nombre": "Mecanica de Maquinas",
+      "creditos": 4,
+      "requisitos": [
+        "24601"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "24602",
+      "nombre": "Diseño V Objeto/Significado",
+      "creditos": 5,
+      "requisitos": [
+        "24596"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "24603",
+      "nombre": "Ergonomia del Producto",
+      "creditos": 3,
+      "requisitos": [
+        "24599"
+      ],
+      "nivel": 5
+    },
+    {
+      "codigo": "24604",
+      "nombre": "Historia del Diseño",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "24605",
+      "nombre": "Materiales y Procesos II Polimeros",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "23424",
+      "nombre": "Ingles I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "24606",
+      "nombre": "Diseño VI Bioenergia",
+      "creditos": 5,
+      "requisitos": [
+        "23025",
+        "24603"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "24607",
+      "nombre": "Sociologia",
+      "creditos": 3,
+      "requisitos": [
+        "24596"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "24608",
+      "nombre": "Materiales y Procesos III Metales",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "24609",
+      "nombre": "Fundamentos del Diseño Mecatronico",
+      "creditos": 4,
+      "requisitos": [
+        "23025"
+      ],
+      "nivel": 6
+    },
+    {
+      "codigo": "23425",
+      "nombre": "Ingles II",
+      "creditos": 4,
+      "requisitos": [
+        "23424"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "24610",
+      "nombre": "Diseño VII Producto",
+      "creditos": 5,
+      "requisitos": [
+        "24609"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "24611",
+      "nombre": "Expresion IV Axonometria",
+      "creditos": 3,
+      "requisitos": [
+        "24598"
+      ],
+      "nivel": 7
+    },
+    {
+      "codigo": "24612",
+      "nombre": "Ecodiseño",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "24613",
+      "nombre": "Materiales y Procesos IV Cueros",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "22964",
+      "nombre": "Direccion Empresarial I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "24614",
+      "nombre": "Diseño VIII Interdisciplina",
+      "creditos": 5,
+      "requisitos": [
+        "24609",
+        "24612"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "24615",
+      "nombre": "Expresion V Fotografia",
+      "creditos": 3,
+      "requisitos": [
+        "24611"
+      ],
+      "nivel": 8
+    },
+    {
+      "codigo": "24616",
+      "nombre": "Materiales Y Procesos V Ceramicos/Vidrios",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "22109",
+      "nombre": "Etica Ciudadana",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "22975",
+      "nombre": "Trabajo de Grado I",
+      "creditos": 3,
+      "requisitos": [
+        "24614"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "24617",
+      "nombre": "Expresion VI Composicion y Edicion Digital",
+      "creditos": 3,
+      "requisitos": [
+        "24615"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "24618",
+      "nombre": "Plan de Negocios",
+      "creditos": 3,
+      "requisitos": [
+        "22964"
+      ],
+      "nivel": 9
+    },
+    {
+      "codigo": "22977",
+      "nombre": "Trabajo de Grado II",
+      "creditos": 7,
+      "requisitos": [
+        "22975"
+      ],
+      "nivel": 10
+    },
+    {
+      "codigo": "24619",
+      "nombre": "Diseño de Empaques",
+      "creditos": 4,
+      "requisitos": [
+        "24617"
+      ],
+      "nivel": 10
+    },
+    {
+      "codigo": "24697",
+      "nombre": "Portafolio del Producto",
+      "creditos": 3,
+      "requisitos": [
+        "24617"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24698",
+      "nombre": "Diseño Digital",
+      "creditos": 3,
+      "requisitos": [
+        "24697"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24699",
+      "nombre": "Usabilidad",
+      "creditos": 3,
+      "requisitos": [
+        "24599"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24700",
+      "nombre": "Gerencia de Mercadeo",
+      "creditos": 3,
+      "requisitos": [
+        "24618"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24701",
+      "nombre": "Historia del Cambio Tecnologico",
+      "creditos": 3,
+      "requisitos": [
+        "24607"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24702",
+      "nombre": "Estadistica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    }
+  ]
+}

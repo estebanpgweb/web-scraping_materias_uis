@@ -1,0 +1,270 @@
+{
+  "materias": [
+    {
+      "codigo": "29205",
+      "nombre": "Cátedra UIS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40936",
+      "nombre": "Introducción al Álgebra Lineal",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40937",
+      "nombre": "Bioquímica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40938",
+      "nombre": "Introducción a la Ingeniería Biomédica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41095",
+      "nombre": "Lengua Extranjera I: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40939",
+      "nombre": "Cálculo de Funciones en Varias Variables",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "40940",
+      "nombre": "Mecánica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "40941",
+      "nombre": "Biología Celular y Molecular",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "40942",
+      "nombre": "Modelado Asistido por Ordenador CAD",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41017",
+      "nombre": "Programación",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41096",
+      "nombre": "Lengua Extranjera II: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41018",
+      "nombre": "Ecuaciones Diferenciales",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41019",
+      "nombre": "Laboratorio de Mecánica",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41020",
+      "nombre": "Electromagnetismo",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41021",
+      "nombre": "Fisiología I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41022",
+      "nombre": "Biotecnología en Salud",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41097",
+      "nombre": "Lengua Extranjera III: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41023",
+      "nombre": "Bioestadística",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41024",
+      "nombre": "Fenómenos de Transporte",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41025",
+      "nombre": "Fisiología II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41026",
+      "nombre": "Circuitos Eléctricos y Electrónica Analógica",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41027",
+      "nombre": "Estructuras de Datos",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41028",
+      "nombre": "Ciencia de los Materiales",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41029",
+      "nombre": "Gestión de Proyectos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41030",
+      "nombre": "Biomateriales",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41031",
+      "nombre": "Gestión Tecnológica Hospitalaria",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41032",
+      "nombre": "Diseño de Sistemas Digitales y Embebidos",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41033",
+      "nombre": "Bases de Datos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41098",
+      "nombre": "Lengua Extranjera IV: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41034",
+      "nombre": "Biomecánica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41035",
+      "nombre": "Procesamiento de Señales Multidimensionales",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41036",
+      "nombre": "Inteligencia Artificial y Big Data",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41037",
+      "nombre": "Diseño en Ingeniería I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41038",
+      "nombre": "Formación Empresarial",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "00000",
+      "nombre": "Electiva Disciplinar I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41039",
+      "nombre": "Modelado de Sistemas Biomédicos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41040",
+      "nombre": "Gestión de Calidad y Acreditación en Sistemas de Salud",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41041",
+      "nombre": "Diseño en Ingeniería II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    }
+  ]
+}

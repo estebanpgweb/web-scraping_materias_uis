@@ -1,0 +1,368 @@
+{
+  "materias": [
+    {
+      "codigo": "29205",
+      "nombre": "Cátedra UIS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41419",
+      "nombre": "Pensamiento de Diseño I",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41420",
+      "nombre": "Comunicación Visual I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41421",
+      "nombre": "Dibujo Paramétrico",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41422",
+      "nombre": "Matemática Aplicada I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40940",
+      "nombre": "Mecánica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41423",
+      "nombre": "Pensamiento de Diseño II",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41424",
+      "nombre": "Comunicación Visual II",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41425",
+      "nombre": "Semiótica",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41426",
+      "nombre": "Introducción al Álgebra Lineal",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "40555",
+      "nombre": "Inglés I",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41427",
+      "nombre": "Pensamiento de Diseño III",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41428",
+      "nombre": "Ciencia de los Materiales",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41429",
+      "nombre": "Ergonomía Física y Cognitiva",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41430",
+      "nombre": "Estática",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "40556",
+      "nombre": "Inglés II",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41431",
+      "nombre": "Comunicación Visual III",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41432",
+      "nombre": "Ergonomía de Producto",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41433",
+      "nombre": "Historia del diseño",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41434",
+      "nombre": "Cultura Material",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41435",
+      "nombre": "Mecánica Sólidos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "40557",
+      "nombre": "Inglés III",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41436",
+      "nombre": "Diseño para la Sostenibilidad",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41437",
+      "nombre": "Diseño de la Información",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41438",
+      "nombre": "Cueros y Textiles",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41439",
+      "nombre": "UX y Diseño Interactivo",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41440",
+      "nombre": "Mecánica de Máquinas",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "40558",
+      "nombre": "Inglés IV",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41441",
+      "nombre": "Diseño de Publicidad y Empaques",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41442",
+      "nombre": "Diseño Estratégico",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41443",
+      "nombre": "Maderas",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41444",
+      "nombre": "Investigación en Diseño",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41445",
+      "nombre": "Fundamentos de Diseño Mecatrónico",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "00000",
+      "nombre": "Electiva de Formación Integral I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41446",
+      "nombre": "Diseño para la Manufactura",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41447",
+      "nombre": "Gestión de Proyectos de Innovación",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41448",
+      "nombre": "Metales",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41449",
+      "nombre": "Diseño para la Innovación",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "41450",
+      "nombre": "Emprendimiento y Plan de Negocios",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "41451",
+      "nombre": "Polímeros",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "41452",
+      "nombre": "Seminario Trabajo de Grado",
+      "creditos": 5,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "41453",
+      "nombre": "Diseño de Experiencias y Servicios",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 9
+    },
+    {
+      "codigo": "24697",
+      "nombre": "Portafolio\r\n      de Producto",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "24698",
+      "nombre": "Diseño\r\n      Digital",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "24699",
+      "nombre": "Usabilidad",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "24700",
+      "nombre": "Gerencia de\r\n      Mercadeo",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "24701",
+      "nombre": "Historia del\r\n      Cambio Tecnológico",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "24702",
+      "nombre": "Estadística",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "27100",
+      "nombre": "Experimentación en Diseño I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "27288",
+      "nombre": "Interacción\r\n      Hombre Computador",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "27716",
+      "nombre": "Diseño de\r\n      Joyería",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    },
+    {
+      "codigo": "28493",
+      "nombre": "Artefactos\r\n      Basados en Plegado",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "electiva"
+    }
+  ]
+}

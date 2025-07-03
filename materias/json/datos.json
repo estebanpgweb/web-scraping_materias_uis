@@ -1,0 +1,277 @@
+{
+  "materias": [
+    {
+      "codigo": "29205",
+      "nombre": "Cátedra UIS",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40935",
+      "nombre": "Cálculo de funciones en una Variable",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40936",
+      "nombre": "Introducción al Álgebra Lineal",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41095",
+      "nombre": "Lengua Extranjera I: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41330",
+      "nombre": "Química para Ingeniería",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "41331",
+      "nombre": "Introducción a la Ingeniería en Ciencia de Datos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 1
+    },
+    {
+      "codigo": "40939",
+      "nombre": "Cálculo de Funciones en Varias Variables",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "40940",
+      "nombre": "Mecánica",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41096",
+      "nombre": "Lengua Extranjera II: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41332",
+      "nombre": "Álgebra Lineal en Espacios Vectoriales Generales",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41333",
+      "nombre": "Algoritmos y Programación",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41334",
+      "nombre": "Matemáticas Discretas",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 2
+    },
+    {
+      "codigo": "41018",
+      "nombre": "Ecuaciones diferenciales",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41019",
+      "nombre": "Laboratorio de Mecánica",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41097",
+      "nombre": "Lengua Extranjera III: inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41335",
+      "nombre": "Sistemas Distribuidos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41336",
+      "nombre": "Estructuras de Datos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41337",
+      "nombre": "Estadística Descriptiva y Probabilidad",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 3
+    },
+    {
+      "codigo": "41098",
+      "nombre": "Lengua Extranjera IV: Inglés",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41338",
+      "nombre": "Métodos Numéricos y Optimización",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41339",
+      "nombre": "Visualización y Representación de Datos",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41340",
+      "nombre": "Programación Orientada a Objetos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41341",
+      "nombre": "Aprendizaje de Máquina",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41342",
+      "nombre": "Estadística Inferencial",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 4
+    },
+    {
+      "codigo": "41343",
+      "nombre": "Gestión de Proyectos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41344",
+      "nombre": "Big Data",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41345",
+      "nombre": "Bases de Datos Relacionales",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41346",
+      "nombre": "Aprendizaje Profundo",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41347",
+      "nombre": "Métodos de Inferencia Bayesiana",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 5
+    },
+    {
+      "codigo": "41348",
+      "nombre": "Diseño en Ingeniería I",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41349",
+      "nombre": "Infraestructura TI para la Ingeniería de Datos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41350",
+      "nombre": "Bases de Datos no Relacionales",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41351",
+      "nombre": "Aprendizaje no Supervisado",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "41352",
+      "nombre": "Fundamentos de Simulación",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 6
+    },
+    {
+      "codigo": "00000",
+      "nombre": "Electiva Disciplinar I",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41353",
+      "nombre": "Ingeniería de Software",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41354",
+      "nombre": "Seguridad y Gobierno de Datos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 7
+    },
+    {
+      "codigo": "41355",
+      "nombre": "Diseño en Ingeniería II",
+      "creditos": 4,
+      "requisitos": [],
+      "nivel": 8
+    },
+    {
+      "codigo": "41356",
+      "nombre": "Inteligencia de Negocios",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": 8
+    }
+  ]
+}

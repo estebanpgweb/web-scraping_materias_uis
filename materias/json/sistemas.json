@@ -260,13 +260,6 @@
       "nivel": 7
     },
     {
-      "codigo": "ELECT012",
-      "nombre": "Asignaturas técnicas profesionales.",
-      "creditos": 4,
-      "requisitos": [],
-      "nivel": 7
-    },
-    {
       "codigo": "22972",
       "nombre": "Sistemas Operacionales",
       "creditos": 4,
@@ -288,13 +281,6 @@
       "nivel": 8
     },
     {
-      "codigo": "ELECT001",
-      "nombre": "Asignaturas Técnicas Profesionales",
-      "creditos": 4,
-      "requisitos": [],
-      "nivel": 8
-    },
-    {
       "codigo": "22975",
       "nombre": "Trabajo de Grado I",
       "creditos": 3,
@@ -309,20 +295,6 @@
       "nivel": 9
     },
     {
-      "codigo": "ELECT003",
-      "nombre": "Asignaturas técnicas profesionales.",
-      "creditos": 4,
-      "requisitos": [],
-      "nivel": 9
-    },
-    {
-      "codigo": "ELECT010",
-      "nombre": "Asignatura de Contexto",
-      "creditos": 6,
-      "requisitos": [],
-      "nivel": 9
-    },
-    {
       "codigo": "22977",
       "nombre": "Trabajo de Grado II",
       "creditos": 7,
@@ -334,13 +306,6 @@
       "nombre": "Economía Empresarial",
       "creditos": 4,
       "requisitos": ["22968"],
-      "nivel": 10
-    },
-    {
-      "codigo": "ELECT008",
-      "nombre": "Asignaturas técnicas profesionales.",
-      "creditos": 4,
-      "requisitos": [],
       "nivel": 10
     },
     {

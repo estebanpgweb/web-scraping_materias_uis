@@ -239,13 +239,6 @@
       "nivel": 6
     },
     {
-      "codigo": "00000",
-      "nombre": "Electiva Disciplinar I",
-      "creditos": 4,
-      "requisitos": [],
-      "nivel": 7
-    },
-    {
       "codigo": "41039",
       "nombre": "Modelado de Sistemas Biomédicos",
       "creditos": 3,

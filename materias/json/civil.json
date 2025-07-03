@@ -16,7 +16,7 @@
     },
     {
       "codigo": "22979",
-      "nombre": "Álgebra Lineal I",
+      "nombre": "Algebra Líneal I",
       "creditos": 4,
       "requisitos": [],
       "nivel": 1
@@ -43,17 +43,10 @@
       "nivel": 1
     },
     {
-      "codigo": "00002",
-      "nombre": "Asignatura\r\n      de Contexto I",
-      "creditos": 2,
-      "requisitos": [],
-      "nivel": 2
-    },
-    {
       "codigo": "20253",
       "nombre": "Cálculo II",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["20252"],
       "nivel": 2
     },
     {
@@ -67,7 +60,7 @@
       "codigo": "22952",
       "nombre": "Biología para Ingenieros",
       "creditos": 2,
-      "requisitos": [],
+      "requisitos": ["22949"],
       "nivel": 2
     },
     {
@@ -79,7 +72,7 @@
     },
     {
       "codigo": "23424",
-      "nombre": "Inglés I",
+      "nombre": "Ingles I",
       "creditos": 4,
       "requisitos": [],
       "nivel": 2
@@ -88,225 +81,218 @@
       "codigo": "20254",
       "nombre": "Cálculo III",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["20253"],
       "nivel": 3
     },
     {
       "codigo": "22953",
       "nombre": "Física II",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["22950", "20252"],
       "nivel": 3
     },
     {
       "codigo": "23018",
       "nombre": "Estática",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["20253", "22950"],
       "nivel": 3
     },
     {
       "codigo": "23425",
       "nombre": "Inglés II",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["23424"],
       "nivel": 3
     },
     {
       "codigo": "24090",
       "nombre": "Topografía",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["23015"],
       "nivel": 3
     },
     {
       "codigo": "20255",
       "nombre": "Ecuaciones Diferenciales",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["20254"],
       "nivel": 4
     },
     {
       "codigo": "22956",
       "nombre": "Física III",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["22953"],
       "nivel": 4
     },
     {
       "codigo": "23834",
       "nombre": "Mecánica de Sólidos",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["20254", "23018"],
       "nivel": 4
     },
     {
       "codigo": "24091",
-      "nombre": "Geología para Ingenieros",
+      "nombre": "Geologia para Ingenieros",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24090"],
       "nivel": 4
     },
     {
       "codigo": "24092",
-      "nombre": "Métodos Numéricos",
+      "nombre": "Métodos Númericos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["20254"],
       "nivel": 4
     },
     {
       "codigo": "24093",
       "nombre": "Mecánica de Fluidos",
       "creditos": 5,
-      "requisitos": [],
+      "requisitos": ["20255"],
       "nivel": 5
     },
     {
       "codigo": "24094",
       "nombre": "Análisis Estructural",
       "creditos": 5,
-      "requisitos": [],
+      "requisitos": ["23834"],
       "nivel": 5
     },
     {
       "codigo": "24095",
-      "nombre": "Estadística Aplicada a la Ingeniería",
+      "nombre": "Estádistica Aplicada a la Ingeniería",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24092"],
       "nivel": 5
     },
     {
       "codigo": "24096",
       "nombre": "Caracterización de Materiales I",
       "creditos": 1,
-      "requisitos": [],
+      "requisitos": ["23834"],
       "nivel": 5
     },
     {
       "codigo": "24097",
       "nombre": "Geomática",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24090"],
       "nivel": 5
     },
     {
       "codigo": "24098",
       "nombre": "Hidrología",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24093", "24095"],
       "nivel": 6
     },
     {
       "codigo": "24099",
       "nombre": "Materiales de Construcción",
       "creditos": 2,
-      "requisitos": [],
+      "requisitos": ["24096"],
       "nivel": 6
     },
     {
       "codigo": "24100",
-      "nombre": "Diseño de Hormigón Armado I",
+      "nombre": "Diseño de Hormigon Armado I",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["24094"],
       "nivel": 6
     },
     {
       "codigo": "24101",
       "nombre": "Mecánica de Suelos I",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["23834", "24091"],
       "nivel": 6
     },
     {
       "codigo": "24102",
       "nombre": "Caracterización de Materiales II",
       "creditos": 1,
-      "requisitos": [],
+      "requisitos": ["24096"],
       "nivel": 6
     },
     {
       "codigo": "24103",
       "nombre": "Ingeniería de Tránsito",
       "creditos": 2,
-      "requisitos": [],
+      "requisitos": ["24090"],
       "nivel": 6
     },
     {
       "codigo": "24104",
       "nombre": "Hidráulica",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["24098"],
       "nivel": 7
     },
     {
       "codigo": "24105",
       "nombre": "Diseño de Hormigón Armado II",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24100"],
       "nivel": 7
     },
     {
       "codigo": "24106",
       "nombre": "Fundaciones I",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24101", "24102"],
       "nivel": 7
     },
     {
       "codigo": "24107",
       "nombre": "Ingeniería Económica",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["20254"],
       "nivel": 7
     },
     {
       "codigo": "24108",
       "nombre": "Dinámica Estructural",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24094"],
       "nivel": 7
     },
     {
       "codigo": "22964",
       "nombre": "Dirección Empresarial",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24107"],
       "nivel": 8
     },
     {
       "codigo": "24109",
       "nombre": "Acueductos y Alcantarillados",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["24104"],
       "nivel": 8
     },
     {
       "codigo": "24110",
       "nombre": "Construcción",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24105"],
       "nivel": 8
     },
     {
       "codigo": "24111",
       "nombre": "Diseño de Estructura Metálicas",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24094"],
       "nivel": 8
     },
     {
       "codigo": "24112",
       "nombre": "Diseño Vial",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": ["24103"],
       "nivel": 8
-    },
-    {
-      "codigo": "00003",
-      "nombre": "Asignaturas\r\n      Electivas",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 9
     },
     {
       "codigo": "22109",
@@ -317,7 +303,7 @@
     },
     {
       "codigo": "22975",
-      "nombre": "Trabajo de Grado I",
+      "nombre": "Trabajo de grado I",
       "creditos": 3,
       "requisitos": [],
       "nivel": 9
@@ -326,15 +312,295 @@
       "codigo": "24113",
       "nombre": "Diseño de Pavimentos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": ["24106"],
       "nivel": 9
     },
     {
       "codigo": "22977",
-      "nombre": "Trabajo de Grado II",
+      "nombre": "Trabajo de grado II",
       "creditos": 7,
-      "requisitos": [],
+      "requisitos": ["22975"],
       "nivel": 10
+    },
+    {
+      "codigo": "21586",
+      "nombre": "Proyectos de Ingeniería",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24114",
+      "nombre": "Diseño de Puentes",
+      "creditos": 3,
+      "requisitos": ["24105"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24115",
+      "nombre": "Mecánica del Medio Continuo",
+      "creditos": 3,
+      "requisitos": ["23834", "24093"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24116",
+      "nombre": "Análisis y Diseño Avanzado de Estructuras",
+      "creditos": 3,
+      "requisitos": ["24100"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24117",
+      "nombre": "Diseño de Hormigón Preesforzado",
+      "creditos": 3,
+      "requisitos": ["24105"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24118",
+      "nombre": "Estructuras de Cimentación y contención",
+      "creditos": 3,
+      "requisitos": ["24100", "24106"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24119",
+      "nombre": "Industrialización de la Construcción",
+      "creditos": 3,
+      "requisitos": ["24105"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24120",
+      "nombre": "Diseño de Estructuras Especiales",
+      "creditos": 3,
+      "requisitos": ["24105"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24121",
+      "nombre": "Amenaza, Vulnerabilidad y Riesgo Sísmico",
+      "creditos": 3,
+      "requisitos": ["24108"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24122",
+      "nombre": "Patologia y Rehabilitación de Estructuras de Concreto",
+      "creditos": 3,
+      "requisitos": ["24105", "24108"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24123",
+      "nombre": "Ingeniería Sísmica",
+      "creditos": 3,
+      "requisitos": ["24108"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24124",
+      "nombre": "Nuevos Materiales de Construcción",
+      "creditos": 3,
+      "requisitos": ["24105"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24125",
+      "nombre": "Ingeniería del Agua Subterránea",
+      "creditos": 3,
+      "requisitos": ["24098", "24101"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24126",
+      "nombre": "Mecánica de Acuíferos",
+      "creditos": 3,
+      "requisitos": ["24098"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24127",
+      "nombre": "Gestión de Hidrosistemas",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24128",
+      "nombre": "Ingeniería en Ríos",
+      "creditos": 3,
+      "requisitos": ["24104"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24129",
+      "nombre": "Hidrología Avanzada",
+      "creditos": 3,
+      "requisitos": ["24098"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24130",
+      "nombre": "Modelado Avanzado de Hidrosistemas",
+      "creditos": 3,
+      "requisitos": ["24098"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24131",
+      "nombre": "Diseño de Plantas de Tratamiento",
+      "creditos": 3,
+      "requisitos": ["24109"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24132",
+      "nombre": "Diseño de Estructuras Hidráulicas",
+      "creditos": 3,
+      "requisitos": ["24104"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24133",
+      "nombre": "Instalaciones Hidráulicas y Sanitarias",
+      "creditos": 3,
+      "requisitos": ["24109"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24134",
+      "nombre": "Técnicas de Saneamiento Ambiental",
+      "creditos": 3,
+      "requisitos": ["24109"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24135",
+      "nombre": "Flujo en la Zona Vadosa",
+      "creditos": 3,
+      "requisitos": ["24104"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24136",
+      "nombre": "Evaluación de Impacto Ambiental",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24137",
+      "nombre": "Transporte de Solutos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24138",
+      "nombre": "Obras de Tierra",
+      "creditos": 3,
+      "requisitos": ["24106"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24139",
+      "nombre": "Fundaciones II",
+      "creditos": 3,
+      "requisitos": ["24106"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24140",
+      "nombre": "Geotecnia Avanzada",
+      "creditos": 3,
+      "requisitos": ["24101"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24141",
+      "nombre": "Control de Erosión",
+      "creditos": 3,
+      "requisitos": ["24101"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24142",
+      "nombre": "Estabilidad de Taludes",
+      "creditos": 3,
+      "requisitos": ["24101"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24143",
+      "nombre": "Diseño Avanzado de Vías",
+      "creditos": 3,
+      "requisitos": ["24112"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24144",
+      "nombre": "Mantenimiento de redes Viales",
+      "creditos": 3,
+      "requisitos": ["24104", "24113"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24145",
+      "nombre": "Técnicas de Optimización I",
+      "creditos": 3,
+      "requisitos": ["24110"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24146",
+      "nombre": "Programación y Costos",
+      "creditos": 3,
+      "requisitos": ["24110"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24147",
+      "nombre": "Legislación y Contratación",
+      "creditos": 3,
+      "requisitos": ["22964"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "24148",
+      "nombre": "Transportes",
+      "creditos": 3,
+      "requisitos": ["24112"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "29086",
+      "nombre": "Técnicas de Optimización I",
+      "creditos": 3,
+      "requisitos": ["24095"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "29087",
+      "nombre": "Programación y Costos",
+      "creditos": 3,
+      "requisitos": ["24110"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "29088",
+      "nombre": "Métodos Estadísticos para seguimiento y control de sistemas y\r\n            proyectos",
+      "creditos": 3,
+      "requisitos": ["24095"],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "29089",
+      "nombre": "Gestión del riesgo",
+      "creditos": 3,
+      "requisitos": ["24095"],
+      "nivel": "Electivas"
     }
   ]
 }

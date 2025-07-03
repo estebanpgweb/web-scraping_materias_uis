@@ -239,13 +239,6 @@
       "nivel": 6
     },
     {
-      "codigo": "00000",
-      "nombre": "Electiva Disciplinar I",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 7
-    },
-    {
       "codigo": "41353",
       "nombre": "Ingeniería de Software",
       "creditos": 3,

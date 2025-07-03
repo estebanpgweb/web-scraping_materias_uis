@@ -232,13 +232,6 @@
       "nivel": 6
     },
     {
-      "codigo": "00000",
-      "nombre": "Electiva de Formación Integral I",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 7
-    },
-    {
       "codigo": "41446",
       "nombre": "Diseño para la Manufactura",
       "creditos": 5,
@@ -296,73 +289,73 @@
     },
     {
       "codigo": "24697",
-      "nombre": "Portafolio\r\n      de Producto",
+      "nombre": "Portafolio de Producto",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "24698",
-      "nombre": "Diseño\r\n      Digital",
+      "nombre": "Diseño Digital",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "24699",
       "nombre": "Usabilidad",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "24700",
-      "nombre": "Gerencia de\r\n      Mercadeo",
+      "nombre": "Gerencia de Mercadeo",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "24701",
-      "nombre": "Historia del\r\n      Cambio Tecnológico",
+      "nombre": "Historia del Cambio Tecnológico",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "24702",
       "nombre": "Estadística",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "27100",
       "nombre": "Experimentación en Diseño I",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "27288",
-      "nombre": "Interacción\r\n      Hombre Computador",
+      "nombre": "Interacción Hombre Computador",
       "creditos": 4,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "27716",
-      "nombre": "Diseño de\r\n      Joyería",
+      "nombre": "Diseño de Joyería",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     },
     {
       "codigo": "28493",
-      "nombre": "Artefactos\r\n      Basados en Plegado",
+      "nombre": "Artefactos Basados en Plegado",
       "creditos": 3,
       "requisitos": [],
-      "nivel": "electiva"
+      "nivel": "Electivas"
     }
   ]
 }

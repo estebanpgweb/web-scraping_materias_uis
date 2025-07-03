@@ -16,42 +16,42 @@
     },
     {
       "codigo": "22952",
-      "nombre": "Biología\r\n      para Ingenieros",
+      "nombre": "Biología para ingenieros",
       "creditos": 2,
       "requisitos": [],
       "nivel": 1
     },
     {
       "codigo": "22979",
-      "nombre": "Álgebra\r\n      Lineal",
+      "nombre": "Álgebra Lineal",
       "creditos": 4,
       "requisitos": [],
       "nivel": 1
     },
     {
       "codigo": "23050",
-      "nombre": "Introducción a la Ingeniería de Petróleos",
+      "nombre": "Introducc.a.la.Ing.de Petroleos",
       "creditos": 3,
       "requisitos": [],
       "nivel": 1
     },
     {
       "codigo": "23423",
-      "nombre": "Cultura\r\n      Física y Deportiva",
+      "nombre": "Cultura física y deportiva",
       "creditos": 1,
       "requisitos": [],
       "nivel": 1
     },
     {
       "codigo": "23427",
-      "nombre": "Taller de\r\n      Lenguaje",
+      "nombre": "Taller de lenguaje",
       "creditos": 3,
       "requisitos": [],
       "nivel": 1
     },
     {
       "codigo": "24948",
-      "nombre": "Vida y\r\n      Cultura Universitaria",
+      "nombre": "Vida y cultura universitaria",
       "creditos": 0,
       "requisitos": [],
       "nivel": 1
@@ -60,7 +60,9 @@
       "codigo": "20253",
       "nombre": "Cálculo II",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20252"
+      ],
       "nivel": 2
     },
     {
@@ -74,126 +76,159 @@
       "codigo": "23079",
       "nombre": "Química II",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20314"
+      ],
       "nivel": 2
     },
     {
       "codigo": "23424",
-      "nombre": "Inglés I",
+      "nombre": "Ingles I",
       "creditos": 4,
       "requisitos": [],
       "nivel": 2
     },
     {
       "codigo": "28035",
-      "nombre": "Geología\r\n      General de Hidrocarburos",
+      "nombre": "Geología general de hidrocarburos",
       "creditos": 3,
       "requisitos": [],
       "nivel": 2
     },
     {
       "codigo": "20113",
-      "nombre": "Mecánica\r\n      Analítica",
+      "nombre": "Mecánica analítica",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20253",
+        "22950"
+      ],
       "nivel": 3
     },
     {
       "codigo": "20254",
-      "nombre": "Cálculo III",
+      "nombre": "Calculo III",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20253"
+      ],
       "nivel": 3
     },
     {
       "codigo": "22953",
-      "nombre": "Física II",
+      "nombre": "Fisica II",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20252",
+        "22950"
+      ],
       "nivel": 3
     },
     {
       "codigo": "23425",
-      "nombre": "Inglés II",
+      "nombre": "Ingles II",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "23424"
+      ],
       "nivel": 3
     },
     {
       "codigo": "28036",
-      "nombre": "Sedimentología de Hidrocarburos",
+      "nombre": "Sedimentología de hidrocarburos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28035"
+      ],
       "nivel": 3
     },
     {
       "codigo": "20255",
-      "nombre": "Ecuaciones\r\n      Diferenciales",
+      "nombre": "Ecuaciones diferenciales",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20254"
+      ],
       "nivel": 4
     },
     {
       "codigo": "22956",
       "nombre": "Física III",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20253",
+        "22953"
+      ],
       "nivel": 4
     },
     {
       "codigo": "23015",
-      "nombre": "Geometría\r\n      Descriptiva",
+      "nombre": "Geometría descriptiva",
       "creditos": 4,
       "requisitos": [],
       "nivel": 4
     },
     {
       "codigo": "28037",
-      "nombre": "Balance y\r\n      Transferencia de Masa y Energía",
+      "nombre": "Balance y transferencia de masa y energía",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "20254"
+      ],
       "nivel": 4
     },
     {
       "codigo": "28038",
-      "nombre": "Geología\r\n      Estructural de Hidrocarburos",
+      "nombre": "Geología estructural de hidrocarburos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28036"
+      ],
       "nivel": 4
     },
     {
       "codigo": "28039",
-      "nombre": "Análisis\r\n      Petrofísicos",
+      "nombre": "Análisis petrofísicos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28036"
+      ],
       "nivel": 4
     },
     {
       "codigo": "28040",
-      "nombre": "Métodos\r\n      Numéricos",
+      "nombre": "Métodos numéricos",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "20255"
+      ],
       "nivel": 5
     },
     {
       "codigo": "28041",
-      "nombre": "Termodinámica de Hidrocarburos",
+      "nombre": "Termodinámica de hidrocarburos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28037"
+      ],
       "nivel": 5
     },
     {
       "codigo": "28042",
-      "nombre": "Lodos de\r\n      Perforación",
+      "nombre": "Lodos de perforación",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "23172"
+      ],
       "nivel": 5
     },
     {
       "codigo": "28043",
-      "nombre": "Fenómenos\r\n      de Transporte de Hidrocarburos",
+      "nombre": "Fenómenos de transporte de hidrocarburos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28037"
+      ],
       "nivel": 5
     },
     {
@@ -205,157 +240,246 @@
     },
     {
       "codigo": "28045",
-      "nombre": "Ingeniería\r\n      Económica",
+      "nombre": "Ingeniería económica",
       "creditos": 3,
       "requisitos": [],
       "nivel": 6
     },
     {
       "codigo": "28046",
-      "nombre": "Propiedades\r\n      de los Fluidos",
+      "nombre": "Propiedades de los fluidos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28041"
+      ],
       "nivel": 6
     },
     {
       "codigo": "28047",
-      "nombre": "Evaluación\r\n      de Formaciones",
+      "nombre": "Evaluación de formaciones",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28035"
+      ],
       "nivel": 6
     },
     {
       "codigo": "28048",
-      "nombre": "Perforación\r\n      de Pozos",
+      "nombre": "Perforación de pozos",
       "creditos": 3,
-      "requisitos": [],
-      "nivel": 6
-    },
-    {
-      "codigo": "CONTEXT2",
-      "nombre": "Asignatura de Contexto",
-      "creditos": 2,
-      "requisitos": [],
+      "requisitos": [
+        "28042"
+      ],
       "nivel": 6
     },
     {
       "codigo": "23183",
-      "nombre": "Laboratorio\r\n      de Fluidos",
+      "nombre": "Laboratorio de fluidos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28046"
+      ],
       "nivel": 7
     },
     {
       "codigo": "28049",
-      "nombre": "Evaluación\r\n      de Proyectos",
+      "nombre": "Evaluación de proyectos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28045"
+      ],
       "nivel": 7
     },
     {
       "codigo": "28050",
-      "nombre": "Política\r\n      Petrolera",
+      "nombre": "Política petrolera",
       "creditos": 2,
       "requisitos": [],
       "nivel": 7
     },
     {
       "codigo": "28051",
-      "nombre": "Responsabilidad Social",
+      "nombre": "Responsabilidad social",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28048"
+      ],
       "nivel": 7
     },
     {
       "codigo": "28052",
-      "nombre": "Completamiento de Pozos",
+      "nombre": "Completamiento de pozos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28048"
+      ],
       "nivel": 7
     },
     {
       "codigo": "28053",
-      "nombre": "Ingeniería\r\n      de Yacimientos",
+      "nombre": "Ingeniería de yacimientos",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28046"
+      ],
       "nivel": 7
     },
     {
-      "codigo": "00002",
-      "nombre": "Asignaturas\r\n      Electivas",
-      "creditos": 3,
-      "requisitos": [],
-      "nivel": 8
-    },
-    {
-      "codigo": "00003",
-      "nombre": "Asignatura\r\n      de Contexto",
-      "creditos": 2,
-      "requisitos": [],
-      "nivel": 8
-    },
-    {
       "codigo": "28054",
-      "nombre": "Gestión\r\n      Integral de la Industria Petrolera",
+      "nombre": "Gestión integral de la industria petrolera",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28051"
+      ],
       "nivel": 8
     },
     {
       "codigo": "28055",
-      "nombre": "Análisis de\r\n      Presiones",
+      "nombre": "Análisis de presiones",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28053"
+      ],
       "nivel": 8
     },
     {
       "codigo": "28056",
-      "nombre": "Métodos de\r\n      Producción",
+      "nombre": "Métodos de producción",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28052"
+      ],
       "nivel": 8
     },
     {
       "codigo": "22975",
-      "nombre": "Trabajo de\r\n      Grado I",
+      "nombre": "Trabajo de grado I",
       "creditos": 3,
       "requisitos": [],
       "nivel": 9
     },
     {
       "codigo": "28057",
-      "nombre": "Ingeniería\r\n      del Gas",
+      "nombre": "Ingeniería del gas",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28056"
+      ],
       "nivel": 9
     },
     {
       "codigo": "28058",
-      "nombre": "Simulación\r\n      de Yacimientos",
+      "nombre": "Simulación de yacimientos",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "28055"
+      ],
       "nivel": 9
     },
     {
       "codigo": "28059",
-      "nombre": "Facilidades\r\n      de Superficie",
+      "nombre": "Facilidades de superficie",
       "creditos": 3,
-      "requisitos": [],
+      "requisitos": [
+        "28056"
+      ],
       "nivel": 9
     },
     {
       "codigo": "28060",
-      "nombre": "Métodos de\r\n      Recobro",
+      "nombre": "Métodos de recobro",
       "creditos": 4,
-      "requisitos": [],
+      "requisitos": [
+        "28055"
+      ],
       "nivel": 9
     },
     {
       "codigo": "22977",
-      "nombre": "Trabajo de\r\n      Grado II",
+      "nombre": "Trabajo de grado II",
       "creditos": 7,
-      "requisitos": [],
+      "requisitos": [
+        "22975"
+      ],
       "nivel": 10
+    },
+    {
+      "codigo": "21458",
+      "nombre": "Corrosión y su control",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "21517",
+      "nombre": "Seguridad Industrial",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23193",
+      "nombre": "Simulación avanzada de yacimientos",
+      "creditos": 3,
+      "requisitos": [
+        "24177"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23196",
+      "nombre": "Estadística Aplicada",
+      "creditos": 3,
+      "requisitos": [
+        "20254"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23207",
+      "nombre": "Simulación de procesos hidrocarburos",
+      "creditos": 3,
+      "requisitos": [
+        "24177"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23208",
+      "nombre": "Tecnología del gas",
+      "creditos": 3,
+      "requisitos": [
+        "23187"
+      ],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "23209",
+      "nombre": "Estructura y propiedades de los materiales",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "26542",
+      "nombre": "Geomecánica y sus aplicaciones a la industria del petroleo",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "26579",
+      "nombre": "Medición de hidrocarburos",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
+    },
+    {
+      "codigo": "28422",
+      "nombre": "Operaciones costa afuera",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Electivas"
     }
   ]
 }

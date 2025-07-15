@@ -89,9 +89,14 @@ function transformToMongoFormat(data) {
   };
 
   const program = programMap[data.programa_academico] || {
-    id: parseInt(data.programa_academico) || 0,
-    name: "PROGRAMA NO DEFINIDO",
+    id: parseInt(data.programa_academico) || 27,
+    name: "DISEÑO INDUSTRIAL",
   };
+
+  if (data.plan == 14) {
+    console.log(data);
+    program.new_pensum = true;
+  }
 
   // Permisos estándar para estudiantes
   const studentPermissions = [

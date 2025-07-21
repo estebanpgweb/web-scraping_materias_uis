@@ -538,6 +538,181 @@
       "creditos": 4,
       "requisitos": ["22968"],
       "nivel": "Electivas"
+    },
+
+    {
+      "codigo": "21279",
+      "nombre": "BALONCESTO (FEMENINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo": "21277",
+      "nombre":  "FUTBOL",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo": "24464",
+      "nombre":  "FUTBOL SALA (MASCULINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo": "21280",
+      "nombre": "BALONCESTO (MASCULINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo": "21276",
+      "nombre": "TENIS DE CAMPO",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo": "21285",
+      "nombre": "ATLETISMO",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    }, 
+
+    {
+      "codigo": "24463" ,
+      "nombre":  "FUTBOL SALA (FEMENINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo": "23211",
+      "nombre":  "TENIS DE MESA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo":"21281",
+      "nombre": "NATACION",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+    {
+      "codigo":"21267",
+      "nombre": "VOLEIBOL (FEMENINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo":"21268",
+      "nombre": "VOLEIBOL (MASCULINO)",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    
+    {
+      "codigo": "21269",
+      "nombre": "TAEKWONDO (MIXTO)",
+      "creditos": 2,
+      "requisitos": [],
+      "nivel": "Contexto"
+    }, 
+    {
+      "codigo": "23213",
+      "nombre": "AJEDREZ",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    }, 
+    {
+      "codigo": "21282",
+      "nombre": "GIMNASIA ESTETICA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    }, 
+    {
+      "codigo":  "21264",
+      "nombre": "RECREACION DIRIGIDA",
+      "creditos": 2 ,
+      "requisitos": [],
+      "nivel": "Contexto"
+    }, 
+    {
+      "codigo":  "21264",
+      "nombre": "RECREACION DIRIGIDA",
+      "creditos": 2 ,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo":"21275", 
+      "nombre": "EL DEPORTE EN EL NUEVO MILENIO",
+      "creditos": 3,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo": "21283",
+      "nombre": "GIMNASIA FORMATIVA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo": "22913",
+      "nombre": "HISTORIA SOCIAL DE LA CIENCIA",
+      "creditos": 1,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+
+{
+      "codigo": "25315",
+      "nombre": "LENGUA DE SEÑAS",
+      "creditos":4,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo": "21270",
+      "nombre": "KARATE DO (MIXTO)",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo": "29162",
+      "nombre": "SOFTBOL MIXTO",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": "Contexto"
+    },
+    {
+      "codigo": "21286",
+      "nombre": "EVENTOS DEPORTIVOS",
+      "creditos": 0,
+      "requisitos": [],
+      "nivel": "Contexto"
     }
+
+  
   ]
 }
